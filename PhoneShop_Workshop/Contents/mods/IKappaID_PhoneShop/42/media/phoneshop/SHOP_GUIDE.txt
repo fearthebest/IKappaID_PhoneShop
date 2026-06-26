@@ -1,0 +1,144 @@
+# IKappaID Phone Shop — Editing Buy & Sell Lists
+
+A short guide for server admins and players who want to customize what the shop offers.
+
+Also available as SHOP_GUIDE.pdf in this folder.
+
+---
+
+## What controls the shop?
+
+The game reads five text files inside the mod:
+
+| File | What it does |
+|------|----------------|
+| buy_list.txt | Main buy catalog |
+| sell_list.txt | Sell catalog (separate from buy) |
+| vehicle_list.txt | Pink-slip vehicles (merged into Buy unless disabled in Config) |
+| costume_list.txt | Costumes (merged into Buy; auto sell prices unless disabled) |
+| currency_list.txt | Cash, bundles, and jewelry accepted as payment |
+
+Path (inside the mod):
+
+  Contents/mods/IKappaID_PhoneShop/42/media/phoneshop/
+
+On a dedicated server, edit the files in your Workshop/mod folder, then restart the server (or let players reopen the shop — server reloads lists when a player opens the shop in MP).
+
+Important:
+- Edit the active files directly in phoneshop/ (not a presets/ subfolder).
+- Multiplayer: server AND every client must have the same updated mod files.
+- The shop shows an MP WARNING if your files differ from the server.
+- Full game restart after editing on clients. Restart server after bulk list changes.
+- To remove an item completely, delete it from every list file that contains it.
+- GaelGun items use Base.* IDs (e.g. Base.AK47) — remove those lines too if you only want another gun mod.
+- Bad lines are skipped; check console.txt for WARN about skipped lines.
+
+---
+
+## Line format
+
+### buy_list.txt / sell_list.txt
+
+  itemType|label|price|category
+
+| Part | Meaning | Example |
+|------|---------|---------|
+| itemType | Full game item ID | Base.Bread |
+| label | Name shown in the shop UI | Bread |
+| price | Cost in shop dollars | 5 |
+| category | Tab in the shop | Food |
+
+Example:
+
+  Base.Bread|Bread|5|Food
+  MarzGuns.AK47|AK-47|1200|Weapons
+
+### vehicle_list.txt
+
+  vehicleScript|label|price|hasKey(0|1)
+
+Example:
+
+  Base.CarNormal|Chevalier Nyala|24000|1
+
+### costume_list.txt
+
+  itemType|label|price
+
+Example:
+
+  Base.AdmireVega|Admire Vega|3500
+
+### currency_list.txt
+
+  itemType|worth
+
+Example:
+
+  Base.Money|1
+  Base.Necklace_Gold|30
+
+- Lines starting with # are comments (ignored).
+- Duplicate itemType lines: last line wins.
+- Restart the game or server after saving changes.
+
+---
+
+## Valid categories
+
+Use exactly one of these (spelling matters):
+
+  Weapons, Ammo, Weapon ACC, Food, Tools, Medical, Vehicle Parts,
+  Vehicles, Costume, Armor, Clothes
+
+---
+
+## Advanced: PhoneShop_Config.lua
+
+In media/lua/shared/PhoneShop_Config.lua you can set:
+
+  MergeVehiclesIntoBuy = true   -- vehicle_list.txt merged into Buy
+  MergeCostumesIntoBuy = true   -- costume_list.txt merged into Buy
+  AutoSellCostumes = true       -- auto add costume sell prices (~20% of buy)
+  ValidateItemsOnTrade = true   -- server rejects buys for missing mods
+
+Set any to false if you want full manual control via buy_list / sell_list only.
+
+---
+
+## Optional: IKST Economy (IKappaID Suite Tools)
+
+No extra setup or require= line needed.
+
+If **IKappaID Suite Tools — Economy** is enabled and active in sandbox:
+
+- Shop shows **Buying power** = physical cash (inventory) + bank balance.
+- Buys spend cash first, then bank (via IKST_EconomyBridge).
+- Sells and refunds pay **physical cash** items (same as standalone).
+
+Without Economy, the shop uses inventory cash and jewelry from currency_list.txt only.
+
+---
+
+## Modded items
+
+You can list items from other mods if you know their full ID:
+
+  MarzGuns.AK47|AK-47|2500|Weapons
+
+- If that mod is not enabled, the item is hidden in the shop UI.
+- The server also blocks the purchase when ValidateItemsOnTrade is on.
+
+---
+
+## Tips
+
+1. Find item IDs — debug/spawn tools, wiki, or existing list lines.
+2. Start small — add a few lines, test, then expand.
+3. Keep backups — copy your lists before big edits.
+4. Dedicated MP — edit on the server; distribute the same phoneshop/ folder to players or re-upload Workshop.
+5. Check the shop hint line for list rev and loaded count; check console for fp= fingerprint.
+
+---
+
+Made by IKappaID

@@ -1,0 +1,435 @@
+# IKappaID Phone Shop — vehicle_list.txt (Vehicles tab, prefilled pink slips)
+# Format: vehicleScript|label|price|hasKey(0|1)
+# Entries for vehicle mods you do not run are hidden automatically.
+# Pink-slip mint on buy uses IKappaIDPinkSlip when that mod is loaded (optional).
+
+Base.04vwTouran|04vw Touran|24000|1
+Base.49powerWagon|49power Wagon|24000|1
+Base.49powerWagonMP|49power Wagon MP|24000|1
+Base.49powerWagonPA|49power Wagon PA|24000|1
+Base.49powerWagonPD|49power Wagon PD|24000|1
+Base.63beetle|63beetle|24000|1
+Base.63beetleBuggy|63beetle Buggy|24000|1
+Base.63beetleHP|63beetle HP|24000|1
+Base.63Type2Van|63Type 2Van|24000|1
+Base.63Type2VanApocalypse|63Type 2Van Apocalypse|24000|1
+Base.63Type2VanHippie|63Type 2Van Hippie|24000|1
+Base.63Type2VanMilitary|63Type 2Van Military|24000|1
+Base.65banshee400|65banshee 400|24000|1
+Base.65bansheeSprint|65banshee Sprint|24000|1
+Base.65bansheeXP|65banshee XP|24000|1
+Base.66pontiacGTO|66pontiac GTO|24000|1
+Base.66pontiacGTOconv|66pontiac GTOconv|24000|1
+Base.66pontiacLeMans|66pontiac Le Mans|24000|1
+Base.66pontiacLeMansConv|66pontiac Le Mans Conv|24000|1
+Base.67commando|67commando|24000|1
+Base.67commandoPolice|67commando Police|28000|1
+Base.67commandoT50|67commando T 50|24000|1
+Base.67gt500|67gt 500|24000|1
+Base.67gt500e|67gt 500e|24000|1
+Base.68firebird350|68firebird 350|28000|1
+Base.68firebird400|68firebird 400|28000|1
+Base.68firebirdRamAir|68firebird Ram Air|28000|1
+Base.68firebirdRamAirCustom|68firebird Ram Air Custom|28000|1
+Base.69camaroRS|69camaro RS|24000|1
+Base.69camaroSS|69camaro SS|24000|1
+Base.69charger440|69charger 440|24000|1
+Base.69charger500|69charger 500|24000|1
+Base.69chargerDaytona|69charger Daytona|24000|1
+Base.69chargerDemon|69charger Demon|24000|1
+Base.69chargerRT|69charger RT|24000|1
+Base.69mini|69mini|24000|1
+Base.69miniIJ|69mini IJ|24000|1
+Base.69miniMrB|69mini Mr B|24000|1
+Base.69miniPS|69mini PS|24000|1
+Base.69miniUnionJack|69mini Union Jack|24000|1
+Base.70barracuda|70barracuda|24000|1
+Base.70barracudaAAR|70barracuda AAR|24000|1
+Base.70cuda|70cuda|24000|1
+Base.70dodgeBG|70dodge BG|24000|1
+Base.70dodgeOP|70dodge OP|24000|1
+Base.70dodgePD|70dodge PD|24000|1
+Base.70dodgeRT|70dodge RT|24000|1
+Base.70dodgeTA|70dodge TA|24000|1
+Base.70fordEscortCoupe|70ford Escort Coupe|24000|1
+Base.70fordEscortRS|70ford Escort RS|24000|1
+Base.70fordEscortSedan|70ford Escort Sedan|24000|1
+Base.70fordEscortWagon|70ford Escort Wagon|24000|1
+Base.70roadRunner|70road Runner|24000|1
+Base.73fordFalconPS|73ford Falcon PS|24000|1
+Base.73fordFalconPSlhd|73ford Falcon PSlhd|24000|1
+Base.73fordFalconXBGT|73ford Falcon XBGT|24000|1
+Base.73fordFalconXBGTlhd|73ford Falcon XBGTlhd|24000|1
+Base.75grandPrixHurst|75grand Prix Hurst|24000|1
+Base.75grandPrixLJ|75grand Prix LJ|24000|1
+Base.75grandPrixSJ|75grand Prix SJ|24000|1
+Base.76chevyK10|76chevy K 10|24000|1
+Base.76chevyK10fd|76chevy K 10fd|24000|1
+Base.76chevyK10spirit|76chevy K 10spirit|24000|1
+Base.76chevyK20|76chevy K 20|24000|1
+Base.76chevyK20BigRed|76chevy K 20Big Red|24000|1
+Base.76chevyK20fd|76chevy K 20fd|24000|1
+Base.76chevyK20utility|76chevy K 20utility|24000|1
+Base.76chevyK30CC|76chevy K 30CC|24000|1
+Base.76chevyK30CCdually|76chevy K 30CCdually|24000|1
+Base.76chevyK30CCduallyS|76chevy K 30CCdually S|24000|1
+Base.76chevyK30CCfd|76chevy K 30CCfd|24000|1
+Base.76chevyK30CCutility|76chevy K 30CCutility|24000|1
+Base.76chevyK30SCdually|76chevy K 30SCdually|24000|1
+Base.76chryslerNewYorker|76chrysler New Yorker|24000|1
+Base.76chryslerNewYorkerTPB|76chrysler New Yorker TPB|24000|1
+Base.77firebird|77firebird|28000|1
+Base.77firebirdES|77firebird ES|28000|1
+Base.77firebirdFR|77firebird FR|28000|1
+Base.77firebirdTA|77firebird TA|28000|1
+Base.78amgeneralM35A2|78amgeneral M 35A 2|32000|1
+Base.78amgeneralM49A2C|78amgeneral M 49A 2C|24000|1
+Base.78amgeneralM50A3|78amgeneral M 50A 3|24000|1
+Base.78amgeneralM62|78amgeneral M 62|24000|1
+Base.78lamboCountachLP400|78lambo Countach LP 400|45000|1
+Base.78lamboCountachLP400S|78lambo Countach LP 400S|45000|1
+Base.78lamboCountachLP400Scb|78lambo Countach LP 400Scb|45000|1
+Base.79camaro|79camaro|24000|1
+Base.79camaroGhost|79camaro Ghost|24000|1
+Base.79camaroRS|79camaro RS|24000|1
+Base.79camaroZ28|79camaro Z 28|24000|1
+Base.80manKat1|80man Kat 1|32000|1
+Base.81deloreanDMC12|81delorean DMC 12|45000|1
+Base.81deloreanDMC12BTTF|81delorean DMC 12BTTF|45000|1
+Base.82firebird|82firebird|28000|1
+Base.82firebirdKARR|82firebird KARR|28000|1
+Base.82firebirdKITT|82firebird KITT|28000|1
+Base.82firebirdSE|82firebird SE|28000|1
+Base.82firebirdTA|82firebird TA|28000|1
+Base.82jeepJ10|82jeep J 10|24000|1
+Base.82jeepJ10pd|82jeep J 10pd|24000|1
+Base.82jeepJ10ranger|82jeep J 10ranger|24000|1
+Base.82jeepJ10t|82jeep J 10t|24000|1
+Base.82porsche911rwb|82porsche 911rwb|45000|1
+Base.82porsche911sc|82porsche 911sc|45000|1
+Base.82porsche911targa|82porsche 911targa|45000|1
+Base.82porsche911turbo|82porsche 911turbo|45000|1
+Base.83amgeneralM923|83amgeneral M 923|32000|1
+Base.84buickElectraCoupe|84buick Electra Coupe|24000|1
+Base.84buickElectraSedan|84buick Electra Sedan|24000|1
+Base.84cadillacDeVilleCoupe|84cadillac De Ville Coupe|24000|1
+Base.84cadillacDeVilleSedan|84cadillac De Ville Sedan|24000|1
+Base.84corvetteC4|84corvette C 4|45000|1
+Base.84jeepXJ2|84jeep XJ 2|24000|1
+Base.84jeepXJ4|84jeep XJ 4|24000|1
+Base.84jeepXJksp|84jeep XJksp|24000|1
+Base.84jeepXJpd|84jeep XJpd|24000|1
+Base.84jeepXJranger|84jeep XJranger|24000|1
+Base.84oldsmobile98Coupe|84oldsmobile 98Coupe|24000|1
+Base.84oldsmobile98Sedan|84oldsmobile 98Sedan|24000|1
+Base.85buickLeSabreCoupe|85buick Le Sabre Coupe|24000|1
+Base.85buickLeSabreSedan|85buick Le Sabre Sedan|24000|1
+Base.85buickLeSabreWagon|85buick Le Sabre Wagon|24000|1
+Base.85buickLeSabreWagon2|85buick Le Sabre Wagon 2|24000|1
+Base.85chevyCapriceCoupe|85chevy Caprice Coupe|24000|1
+Base.85chevyCapriceSedan|85chevy Caprice Sedan|24000|1
+Base.85chevyCapriceWagon|85chevy Caprice Wagon|24000|1
+Base.85chevyCapriceWagon2|85chevy Caprice Wagon 2|24000|1
+Base.85chevyImpalaSedanAirport|85chevy Impala Sedan Airport|24000|1
+Base.85chevyImpalaSedanBCS|85chevy Impala Sedan BCS|24000|1
+Base.85chevyImpalaSedanCLPD|85chevy Impala Sedan CLPD|24000|1
+Base.85chevyImpalaSedanFD|85chevy Impala Sedan FD|24000|1
+Base.85chevyImpalaSedanKSP|85chevy Impala Sedan KSP|24000|1
+Base.85chevyImpalaSedanLCPD|85chevy Impala Sedan LCPD|24000|1
+Base.85chevyImpalaSedanMCS|85chevy Impala Sedan MCS|24000|1
+Base.85chevyImpalaSedanMPD|85chevy Impala Sedan MPD|24000|1
+Base.85chevyImpalaSedanPD|85chevy Impala Sedan PD|24000|1
+Base.85chevyImpalaSedanPDu|85chevy Impala Sedan PDu|24000|1
+Base.85chevyImpalaSedanPrison|85chevy Impala Sedan Prison|24000|1
+Base.85chevyImpalaSedanRanger|85chevy Impala Sedan Ranger|24000|1
+Base.85chevyImpalaSedanTaxi|85chevy Impala Sedan Taxi|24000|1
+Base.85chevyImpalaSedanWPPD|85chevy Impala Sedan WPPD|24000|1
+Base.85chevyStepVan|85chevy Step Van|24000|1
+Base.85chevyStepVanBlacksmith|85chevy Step Van Blacksmith|24000|1
+Base.85chevyStepVanButchers|85chevy Step Van Butchers|24000|1
+Base.85chevyStepVanCitrusWave|85chevy Step Van Citrus Wave|24000|1
+Base.85chevyStepVanDelirosPlonkies|85chevy Step Van Deliros Plonkies|24000|1
+Base.85chevyStepVanFlorist|85chevy Step Van Florist|24000|1
+Base.85chevyStepVanGenuine|85chevy Step Van Genuine|24000|1
+Base.85chevyStepVanHerald|85chevy Step Van Herald|24000|1
+Base.85chevyStepVanJorgensen|85chevy Step Van Jorgensen|24000|1
+Base.85chevyStepVanLibrary|85chevy Step Van Library|24000|1
+Base.85chevyStepVanLvAirportCatering|85chevy Step Van Lv Airport Catering|24000|1
+Base.85chevyStepVanLvMotorshop|85chevy Step Van Lv Motorshop|24000|1
+Base.85chevyStepVanMarineBites|85chevy Step Van Marine Bites|24000|1
+Base.85chevyStepVanMasonry|85chevy Step Van Masonry|24000|1
+Base.85chevyStepVanMrHuangsLaundry|85chevy Step Van Mr Huangs Laundry|24000|1
+Base.85chevyStepVanPostal|85chevy Step Van Postal|24000|1
+Base.85chevyStepVanPropane|85chevy Step Van Propane|24000|1
+Base.85chevyStepVanRandys|85chevy Step Van Randys|24000|1
+Base.85chevyStepVanScarletOak|85chevy Step Van Scarlet Oak|24000|1
+Base.85chevyStepVanSeHospitality|85chevy Step Van Se Hospitality|24000|1
+Base.85chevyStepVanSePaintingServices|85chevy Step Van Se Painting Services|24000|1
+Base.85chevyStepVanSmartCut|85chevy Step Van Smart Cut|24000|1
+Base.85chevyStepVanSunBallz|85chevy Step Van Sun Ballz|24000|1
+Base.85chevyStepVanSWAT|85chevy Step Van SWAT|24000|1
+Base.85chevyStepVanTheCompleteRepair|85chevy Step Van The Complete Repair|24000|1
+Base.85chevyStepVanTimelessGlass|85chevy Step Van Timeless Glass|24000|1
+Base.85chevyStepVanUsLogistics|85chevy Step Van Us Logistics|24000|1
+Base.85chevyStepVanZippeeMarket|85chevy Step Van Zippee Market|24000|1
+Base.85oldsmobileDelta88Coupe|85oldsmobile Delta 88Coupe|24000|1
+Base.85oldsmobileDelta88Sedan|85oldsmobile Delta 88Sedan|24000|1
+Base.85oldsmobileDelta88Wagon|85oldsmobile Delta 88Wagon|24000|1
+Base.85oldsmobileDelta88Wagon2|85oldsmobile Delta 88Wagon 2|24000|1
+Base.85pontiacParisienneSedan|85pontiac Parisienne Sedan|24000|1
+Base.85pontiacParisienneWagon|85pontiac Parisienne Wagon|24000|1
+Base.85pontiacParisienneWagon2|85pontiac Parisienne Wagon 2|24000|1
+Base.86chevyK5blazer|86chevy K 5blazer|24000|1
+Base.86chevyK5ksp|86chevy K 5ksp|24000|1
+Base.86chevyK5pd|86chevy K 5pd|24000|1
+Base.86chevyM1008|86chevy M 1008|24000|1
+Base.86chevyM1009|86chevy M 1009|24000|1
+Base.86chevyM1009mp|86chevy M 1009mp|24000|1
+Base.86chevyM1010|86chevy M 1010|24000|1
+Base.86chevyM1028|86chevy M 1028|24000|1
+Base.86chevyM1031|86chevy M 1031|24000|1
+Base.86fordE150|86ford E 150|24000|1
+Base.86fordE150beckmansBuilding|86ford E 150beckmans Building|24000|1
+Base.86fordE150blacksmith|86ford E 150blacksmith|24000|1
+Base.86fordE150brewster|86ford E 150brewster|24000|1
+Base.86fordE150brushAndClay|86ford E 150brush And Clay|24000|1
+Base.86fordE150bugWipers|86ford E 150bug Wipers|24000|1
+Base.86fordE150ccconstruction|86ford E 150ccconstruction|24000|1
+Base.86fordE150creatureCruiser|86ford E 150creature Cruiser|24000|1
+Base.86fordE150deerValley|86ford E 150deer Valley|24000|1
+Base.86fordE150dnd|86ford E 150dnd|24000|1
+Base.86fordE150fossoil|86ford E 150fossoil|24000|1
+Base.86fordE150greenes|86ford E 150greenes|24000|1
+Base.86fordE150heritageTailors|86ford E 150heritage Tailors|24000|1
+Base.86fordE150jones|86ford E 150jones|24000|1
+Base.86fordE150kerrHomes|86ford E 150kerr Homes|24000|1
+Base.86fordE150knobCreek|86ford E 150knob Creek|24000|1
+Base.86fordE150knoxDistilery|86ford E 150knox Distilery|24000|1
+Base.86fordE150knoxTelecom|86ford E 150knox Telecom|24000|1
+Base.86fordE150korshunovs|86ford E 150korshunovs|24000|1
+Base.86fordE150ksp|86ford E 150ksp|24000|1
+Base.86fordE150kyTransit|86ford E 150ky Transit|24000|1
+Base.86fordE150LBMWradio|86ford E 150LBMWradio|24000|1
+Base.86fordE150leatherwork|86ford E 150leatherwork|24000|1
+Base.86fordE150lectromax|86ford E 150lectromax|24000|1
+Base.86fordE150locksmith|86ford E 150locksmith|24000|1
+Base.86fordE150long|86ford E 150long|24000|1
+Base.86fordE150longW|86ford E 150long W|24000|1
+Base.86fordE150lvLandscaping|86ford E 150lv Landscaping|24000|1
+Base.86fordE150LVairportShuttle|86ford E 150LVairport Shuttle|24000|1
+Base.86fordE150massGenfac|86ford E 150mass Genfac|24000|1
+Base.86fordE150McCoyWoodworking|86ford E 150Mc Coy Woodworking|24000|1
+Base.86fordE150mccoy|86ford E 150mccoy|24000|1
+Base.86fordE150med|86ford E 150med|24000|1
+Base.86fordE150meltingPointMetal|86ford E 150melting Point Metal|24000|1
+Base.86fordE150mesmerWagon|86ford E 150mesmer Wagon|24000|1
+Base.86fordE150metalheads|86ford E 150metalheads|24000|1
+Base.86fordE150michelesWoodshop|86ford E 150micheles Woodshop|24000|1
+Base.86fordE150mm|86ford E 150mm|24000|1
+Base.86fordE150mobileMechanics|86ford E 150mobile Mechanics|24000|1
+Base.86fordE150mooresMechanics|86ford E 150moores Mechanics|24000|1
+Base.86fordE150oVoFarms|86ford E 150o Vo Farms|24000|1
+Base.86fordE150oldMillWaterCompany|86ford E 150old Mill Water Company|24000|1
+Base.86fordE150pd|86ford E 150pd|24000|1
+Base.86fordE150pennSham|86ford E 150penn Sham|24000|1
+Base.86fordE150perfick|86ford E 150perfick|24000|1
+Base.86fordE150plattAutoRepair|86ford E 150platt Auto Repair|24000|1
+Base.86fordE150pluggedInElectrics|86ford E 150plugged In Electrics|24000|1
+Base.86fordE150postal|86ford E 150postal|24000|1
+Base.86fordE150quantumVessel|86ford E 150quantum Vessel|24000|1
+Base.86fordE150riversideFab|86ford E 150riverside Fab|24000|1
+Base.86fordE150rosewoodWorking|86ford E 150rosewood Working|24000|1
+Base.86fordE150schwab|86ford E 150schwab|24000|1
+Base.86fordE150slide|86ford E 150slide|24000|1
+Base.86fordE150slideSpiffo|86ford E 150slide Spiffo|24000|1
+Base.86fordE150so|86ford E 150so|24000|1
+Base.86fordE150stoneworksMasonry|86ford E 150stoneworks Masonry|24000|1
+Base.86fordE150tasteTheBrew|86ford E 150taste The Brew|24000|1
+Base.86fordE150theGardenGods|86ford E 150the Garden Gods|24000|1
+Base.86fordE150theLadyDelighter|86ford E 150the Lady Delighter|24000|1
+Base.86fordE150treyBaines|86ford E 150trey Baines|24000|1
+Base.86fordE150uncloggers|86ford E 150uncloggers|24000|1
+Base.86fordE150valkyriesSpear|86ford E 150valkyries Spear|28000|1
+Base.86fordE150voltMojo|86ford E 150volt Mojo|24000|1
+Base.86fordE150wpCarpentry|86ford E 150wp Carpentry|24000|1
+Base.86fordE150zenith|86ford E 150zenith|24000|1
+Base.86oshkoshFRTR55|86oshkosh FRTR 55|32000|1
+Base.86oshkoshKYFD|86oshkosh KYFD|32000|1
+Base.86oshkoshUSMC|86oshkosh USMC|32000|1
+Base.87buickRegalGNX|87buick Regal GNX|24000|1
+Base.87buickRegalTurboT|87buick Regal Turbo T|24000|1
+Base.87buickRegalTurboTfbi|87buick Regal Turbo Tfbi|24000|1
+Base.87chevySuburban|87chevy Suburban|24000|1
+Base.87chevySuburbanCUCV|87chevy Suburban CUCV|24000|1
+Base.87chevySuburbanOP|87chevy Suburban OP|24000|1
+Base.87fordB700military|87ford B 700military|24000|1
+Base.87fordB700prison|87ford B 700prison|24000|1
+Base.87fordB700school|87ford B 700school|24000|1
+Base.87fordF700bank|87ford F 700bank|24000|1
+Base.87fordF700box|87ford F 700box|24000|1
+Base.87fordF700swat|87ford F 700swat|24000|1
+Base.87toyotaMR2|87toyota MR 2|24000|1
+Base.87toyotaMR2c|87toyota MR 2c|24000|1
+Base.88chevyS10|88chevy S 10|24000|1
+Base.88toyotaHiluxSC|88toyota Hilux SC|24000|1
+Base.88toyotaHiluxXC|88toyota Hilux XC|24000|1
+Base.88toyotaHiluxXCS|88toyota Hilux XCS|24000|1
+Base.89defender110|89defender 110|24000|1
+Base.89defender110utility|89defender 110utility|24000|1
+Base.89defender130|89defender 130|24000|1
+Base.89defender90|89defender 90|24000|1
+Base.89defender90utility|89defender 90utility|24000|1
+Base.89defenderWolf|89defender Wolf|24000|1
+Base.89dodgeCaravan|89dodge Caravan|24000|1
+Base.89dodgeCaravanLE|89dodge Caravan LE|24000|1
+Base.89dodgeCaravanNomad|89dodge Caravan Nomad|24000|1
+Base.89fordBronco|89ford Bronco|24000|1
+Base.89fordBroncoPD|89ford Bronco PD|24000|1
+Base.89fordBroncoRanger|89ford Bronco Ranger|24000|1
+Base.89trooper|89trooper|24000|1
+Base.89trooperOP|89trooper OP|24000|1
+Base.89trooperRS|89trooper RS|24000|1
+Base.89volvo242turbo|89volvo 242turbo|24000|1
+Base.89volvo244sedan|89volvo 244sedan|24000|1
+Base.89volvo245wagon|89volvo 245wagon|24000|1
+Base.90bmwE30cabrio|90bmw E 30cabrio|24000|1
+Base.90bmwE30m3|90bmw E 30m 3|24000|1
+Base.90bmwE30sedan2|90bmw E 30sedan 2|24000|1
+Base.90bmwE30sedan4|90bmw E 30sedan 4|24000|1
+Base.90bmwE30touring|90bmw E 30touring|24000|1
+Base.90fordF350ambulance|90ford F 350ambulance|28000|1
+Base.90fordF350SWAT|90ford F 350SWAT|24000|1
+Base.90pierceArrow|90pierce Arrow|28000|1
+Base.91fordLTD|91ford LTD|24000|1
+Base.91fordLTDksp|91ford LTDksp|24000|1
+Base.91fordLTDksp2|91ford LTDksp 2|24000|1
+Base.91fordLTDpd|91ford LTDpd|24000|1
+Base.91fordLTDranger|91ford LTDranger|24000|1
+Base.91fordLTDtaxi|91ford LTDtaxi|24000|1
+Base.91fordLTDunmarked|91ford LTDunmarked|24000|1
+Base.91fordLTDwagon|91ford LTDwagon|24000|1
+Base.91fordRangerPD|91ford Ranger PD|24000|1
+Base.91fordRangerRanger|91ford Ranger Ranger|24000|1
+Base.91fordRangerSC|91ford Ranger SC|24000|1
+Base.91fordRangerSClong|91ford Ranger SClong|24000|1
+Base.91fordRangerXC|91ford Ranger XC|24000|1
+Base.91fordRangerXClong|91ford Ranger XClong|24000|1
+Base.91geoMetro|91geo Metro|24000|1
+Base.91nissan240sx|91nissan 240sx|24000|1
+Base.91nissan240sx2|91nissan 240sx 2|24000|1
+Base.91range|91range|24000|1
+Base.91range2|91range 2|24000|1
+Base.92amgeneralM998|92amgeneral M 998|32000|1
+Base.92fordCV|92ford CV|24000|1
+Base.92fordCVPI|92ford CVPI|28000|1
+Base.92fordCVPI2|92ford CVPI 2|28000|1
+Base.92fordCVPI2ksp|92ford CVPI 2ksp|28000|1
+Base.92fordCVPI2kspst|92ford CVPI 2kspst|28000|1
+Base.92fordCVPI2so|92ford CVPI 2so|28000|1
+Base.92fordCVPI2sup|92ford CVPI 2sup|28000|1
+Base.92fordCVPIfd|92ford CVPIfd|28000|1
+Base.92fordCVPIpdu|92ford CVPIpdu|28000|1
+Base.92fordCVPItaxi|92ford CVPItaxi|28000|1
+Base.92fordCVPIunmarked|92ford CVPIunmarked|28000|1
+Base.92jeepYJjp|92jeep YJjp|24000|1
+Base.92jeepYJranger|92jeep YJranger|24000|1
+Base.92jeepYJs|92jeep YJs|24000|1
+Base.92jeepYJse|92jeep YJse|24000|1
+Base.92nissanGTR|92nissan GTR|45000|1
+Base.92nissanGTRlhd|92nissan GTRlhd|45000|1
+Base.93chevySilveradoAirport|93chevy Silverado Airport|24000|1
+Base.93chevySilveradoCC|93chevy Silverado CC|24000|1
+Base.93chevySilveradoCCdually|93chevy Silverado CCdually|24000|1
+Base.93chevySilveradoCClong|93chevy Silverado CClong|24000|1
+Base.93chevySilveradoCClongfd|93chevy Silverado CClongfd|24000|1
+Base.93chevySilveradoK3500flatbed|93chevy Silverado K 3500flatbed|24000|1
+Base.93chevySilveradoK3500lvLandscaping|93chevy Silverado K 3500lv Landscaping|24000|1
+Base.93chevySilveradoK3500mechanic|93chevy Silverado K 3500mechanic|24000|1
+Base.93chevySilveradoMcCoyWoodworking|93chevy Silverado Mc Coy Woodworking|24000|1
+Base.93chevySilveradoPennSham|93chevy Silverado Penn Sham|24000|1
+Base.93chevySilveradoPoliceBCS|93chevy Silverado Police BCS|28000|1
+Base.93chevySilveradoPoliceMCS|93chevy Silverado Police MCS|28000|1
+Base.93chevySilveradoRiversideFab|93chevy Silverado Riverside Fab|24000|1
+Base.93chevySilveradoSC|93chevy Silverado SC|24000|1
+Base.93chevySilveradoSCdually|93chevy Silverado SCdually|24000|1
+Base.93chevySilveradoSClong|93chevy Silverado SClong|24000|1
+Base.93chevySilveradoSClongFossoil|93chevy Silverado SClong Fossoil|24000|1
+Base.93chevySilveradoStoneworksMasonry|93chevy Silverado Stoneworks Masonry|24000|1
+Base.93chevySilveradoUncloggers|93chevy Silverado Uncloggers|24000|1
+Base.93chevySilveradoVoltMojo|93chevy Silverado Volt Mojo|24000|1
+Base.93chevySilveradoWpCarpentry|93chevy Silverado Wp Carpentry|24000|1
+Base.93chevySilveradoXC|93chevy Silverado XC|24000|1
+Base.93chevySilveradoXCdually|93chevy Silverado XCdually|24000|1
+Base.93chevySilveradoXClong|93chevy Silverado XClong|24000|1
+Base.93chevySilveradoXClongMcCoy|93chevy Silverado XClong Mc Coy|24000|1
+Base.93chevySilveradoXClongRanger|93chevy Silverado XClong Ranger|24000|1
+Base.93chevySuburban|93chevy Suburban|24000|1
+Base.93chevySuburbanAirportSec|93chevy Suburban Airport Sec|24000|1
+Base.93chevySuburbanDually|93chevy Suburban Dually|24000|1
+Base.93chevySuburbanPoliceBCS|93chevy Suburban Police BCS|28000|1
+Base.93chevySuburbanPoliceCLPD|93chevy Suburban Police CLPD|28000|1
+Base.93chevySuburbanPoliceLCPD|93chevy Suburban Police LCPD|28000|1
+Base.93chevySuburbanPoliceMCS|93chevy Suburban Police MCS|28000|1
+Base.93chevySuburbanPoliceMPD|93chevy Suburban Police MPD|28000|1
+Base.93chevySuburbanPoliceWPPD|93chevy Suburban Police WPPD|28000|1
+Base.93chevySuburbanPrison|93chevy Suburban Prison|24000|1
+Base.93chevySuburbanfbi|93chevy Suburbanfbi|24000|1
+Base.93chevySuburbanfd|93chevy Suburbanfd|24000|1
+Base.93chevySuburbanksp|93chevy Suburbanksp|24000|1
+Base.93chevySuburbanpd|93chevy Suburbanpd|24000|1
+Base.93chevySuburbanpdu|93chevy Suburbanpdu|24000|1
+Base.93corvetteC4|93corvette C 4|45000|1
+Base.93fordF150|93ford F 150|24000|1
+Base.93fordF150S|93ford F 150S|24000|1
+Base.93fordF250|93ford F 250|24000|1
+Base.93fordF350|93ford F 350|24000|1
+Base.93fordF350dually|93ford F 350dually|24000|1
+Base.93fordF350fd|93ford F 350fd|24000|1
+Base.93fordF350pd|93ford F 350pd|24000|1
+Base.93fordF350so|93ford F 350so|24000|1
+Base.93fordF350utility|93ford F 350utility|24000|1
+Base.93fordF350utilityDpw|93ford F 350utility Dpw|24000|1
+Base.93fordF350utilityFd|93ford F 350utility Fd|24000|1
+Base.93fordTaurus|93ford Taurus|24000|1
+Base.93fordTaurusSHO|93ford Taurus SHO|24000|1
+Base.93fordTaurusWagon|93ford Taurus Wagon|24000|1
+Base.93mustangGT|93mustang GT|24000|1
+Base.93mustangSSP|93mustang SSP|28000|1
+Base.93mustangSSPksp|93mustang SSPksp|28000|1
+Base.93mustangSSPksp2|93mustang SSPksp 2|28000|1
+Base.93mustangSSPkspCol|93mustang SSPksp Col|28000|1
+Base.93mustangSSPpd|93mustang SSPpd|28000|1
+Base.93mustangSSPpd2|93mustang SSPpd 2|28000|1
+Base.93mustangSSPunmarked|93mustang SSPunmarked|28000|1
+Base.93mustangSVTcobraR|93mustang SVTcobra R|24000|1
+Base.93townCar|93town Car|24000|1
+Base.93townCarLimo|93town Car Limo|24000|1
+Base.95impreza|95impreza|24000|1
+Base.95imprezalhd|95imprezalhd|24000|1
+Base.96lancerEVO|96lancer EVO|24000|1
+Base.96lancerEVOlhd|96lancer EVOlhd|24000|1
+Base.96saturnSL2|96saturn SL 2|24000|1
+Base.97bushAmbulance|97bush Ambulance|28000|1
+Base.97bushmaster|97bushmaster|32000|1
+Base.98stagea260RS|98stagea 260RS|24000|1
+Base.98stagea260RSlhd|98stagea 260RSlhd|24000|1
+Base.99fordCVPI|99ford CVPI|28000|1
+Base.99fordCVPIunmarked|99ford CVPIunmarked|28000|1
+Base.isoContainer2|iso Container 2|12000|1
+Base.isoContainer3tanker|iso Container 3tanker|12000|1
+Base.isoContainer4|iso Container 4|12000|1
+Base.isoContainer5|iso Container 5|12000|1
+Base.CarLuxury|Luxury Car|14000|1
+Base.ModernCar|Modern Car|11000|1
+Base.OffRoad|Off-Road|10000|1
+Base.PickUpTruck|Pickup Truck|10000|1
+Base.CarLightsPolice|Police Cruiser|15000|1
+Base.PickUpVanLightsPolice|Police Van|14000|1
+Base.SmallCar|Small Car|6000|1
+Base.SportsCar|Sports Car|16000|1
+Base.CarNormal|Standard Car|8000|1
+Base.CarStationWagon|Station Wagon|8500|1
+Base.SUV|SUV|12000|1
+Base.U1550L|U 1550L|24000|1
+Base.U1550LOffRoad|U 1550LOff Road|24000|1
+Base.PickUpVan|Van|9000|1

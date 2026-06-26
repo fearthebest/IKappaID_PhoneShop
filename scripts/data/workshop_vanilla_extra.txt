@@ -1,0 +1,42 @@
+# Extra vanilla items for public Workshop release (Base.* only)
+# Format: itemType|label|price|category
+
+Base.Pistol|Pistol|800|Weapons
+Base.Pistol2|Pistol|800|Weapons
+Base.Pistol3|Pistol|800|Weapons
+Base.Revolver|Revolver|750|Weapons
+Base.Revolver_Long|Long Revolver|850|Weapons
+Base.Revolver_Short|Short Revolver|700|Weapons
+Base.Shotgun|Shotgun|900|Weapons
+Base.DoubleBarrelShotgun|Double Barrel Shotgun|950|Weapons
+Base.VarmintRifle|Varmint Rifle|1200|Weapons
+Base.HuntingRifle|Hunting Rifle|1500|Weapons
+Base.AssaultRifle|Assault Rifle|2500|Weapons
+Base.AssaultRifle2|Assault Rifle|2500|Weapons
+Base.Axe|Axe|120|Tools
+Base.Hammer|Hammer|50|Tools
+Base.Saw|Saw|40|Tools
+Base.Crowbar|Crowbar|80|Tools
+Base.PipeWrench|Pipe Wrench|60|Tools
+Base.Bullets9mmBox|9mm Ammo Box|60|Ammo
+Base.Bullets38Box|38 Ammo Box|60|Ammo
+Base.Bullets44Box|44 Ammo Box|70|Ammo
+Base.Bullets45Box|45 Ammo Box|70|Ammo
+Base.ShotgunShellsBox|Shotgun Shells Box|80|Ammo
+Base.223Box|223 Ammo Box|90|Ammo
+Base.308Box|308 Ammo Box|100|Ammo
+Base.Bandage|Bandage|25|Medical
+Base.AlcoholBandage|Sterilized Bandage|40|Medical
+Base.Pills|Painkillers|30|Medical
+Base.PillsAntiDep|Pills Anti Dep|35|Medical
+Base.Antibiotics|Antibiotics|120|Medical
+Base.Splint|Splint|45|Medical
+Base.Tshirt_Default|T-Shirt|25|Clothes
+Base.Shirt_Default|Shirt|30|Clothes
+Base.Trousers_Default|Trousers|35|Clothes
+Base.Socks_Ankle|Socks|15|Clothes
+Base.Shoes_TrainerTINT|Trainers|40|Clothes
+Base.Jacket_Black|Jacket|80|Clothes
+Base.Vest_Default|Vest|50|Clothes
+Base.Hat_BaseballCap|Baseball Cap|20|Clothes
+Base.Glasses_Normal|Glasses|25|Clothes

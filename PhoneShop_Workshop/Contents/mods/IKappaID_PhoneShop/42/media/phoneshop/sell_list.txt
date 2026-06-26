@@ -1,0 +1,1579 @@
+# IKappaID Phone Shop — sell list (~20% buy + jewelry sell-only)
+# Same mod notes as buy_list.txt
+
+# --- Weapons ---
+Base.A2000|A2000|160|Weapons
+Base.A91|A91|160|Weapons
+Base.AA12|AA12|160|Weapons
+Base.ACE21|ACE21|160|Weapons
+Base.ACE23|ACE23|160|Weapons
+Base.ACE52_CQB|ACE52 CQB|160|Weapons
+Base.ACE53|ACE53|160|Weapons
+Base.ACR|ACR|160|Weapons
+Base.ADS|ADS|160|Weapons
+Base.AEK|AEK|160|Weapons
+Base.AEK919|AEK919|160|Weapons
+Base.AK101|AK101|240|Weapons
+Base.AK103|AK103|240|Weapons
+Base.AK12|AK12|240|Weapons
+Base.AK19|AK19|240|Weapons
+Base.AK47|AK47|240|Weapons
+Base.AK5C|AK5C|240|Weapons
+Base.AK74|AK74|240|Weapons
+Base.AK74u|AK74u|240|Weapons
+Base.AK74u_long|AK74u long|240|Weapons
+Base.AK9|AK9|240|Weapons
+Base.AKM|AKM|240|Weapons
+Base.AKU12|AKU12|240|Weapons
+Base.AK_minidrako|AK minidrako|240|Weapons
+Base.AMD65|AMD65|160|Weapons
+Base.AMMO_bolt_carbon_part|AMMO bolt carbon part|160|Weapons
+Base.AMMO_bolt_metal_part|AMMO bolt metal part|160|Weapons
+Base.AMMO_bolt_wood_part|AMMO bolt wood part|160|Weapons
+Base.AMMO_rocket_part|AMMO rocket part|160|Weapons
+Base.AN94|AN94|160|Weapons
+Base.APC9K|APC9K|160|Weapons
+Base.AR10|AR10|160|Weapons
+Base.AR15|AR15|160|Weapons
+Base.AR160|AR160|160|Weapons
+Base.AR6951|AR6951|160|Weapons
+Base.ASH_12|ASH 12|160|Weapons
+Base.ATN_Thor|ATN Thor|160|Weapons
+Base.AUG_9mm|AUG 9mm|160|Weapons
+Base.AUG_A1|AUG A1|160|Weapons
+Base.AUG_A2|AUG A2|160|Weapons
+Base.AWS|AWS|160|Weapons
+Base.Accupoint|Accupoint|160|Weapons
+Base.AkHGwood|Ak HGwood|240|Weapons
+Base.Anaconda|Anaconda|160|Weapons
+Base.AssaultRifle|Assault Rifle|320|Weapons
+Base.AssaultRifle2|Assault Rifle2|320|Weapons
+Base.Automag357|Automag357|160|Weapons
+Base.Automag44|Automag44|160|Weapons
+Base.Automag50AE|Automag50AE|160|Weapons
+Base.BAR|BAR|160|Weapons
+Base.BaldrPro|Baldr Pro|160|Weapons
+Base.Becker_Shotgun|Becker Shotgun|320|Weapons
+Base.Becker_Shotgun_Short|Becker Shotgun Short|320|Weapons
+Base.BenelliM4|Benelli M4|160|Weapons
+Base.Beretta_A400|Beretta A400|160|Weapons
+Base.Beretta_A400_Short|Beretta A400 Short|160|Weapons
+Base.Beretta_PX4|Beretta PX4|160|Weapons
+Base.Bow_compbound|Bow compbound|160|Weapons
+Base.Bow_compbound2|Bow compbound2|160|Weapons
+Base.Bow_crafted|Bow crafted|160|Weapons
+Base.Bow_hunting|Bow hunting|160|Weapons
+Base.Bow_medieval|Bow medieval|160|Weapons
+Base.Bravo4|Bravo4|160|Weapons
+Base.BrowningHP|Browning HP|160|Weapons
+Base.Browning_Auto|Browning Auto|160|Weapons
+Base.Browning_Auto_Short|Browning Auto Short|160|Weapons
+Base.BulletPressTool|Bullet Press Tool|160|Weapons
+Base.CBJ|CBJ|160|Weapons
+Base.CETME|CETME|160|Weapons
+Base.CP1|CP1|160|Weapons
+Base.CS5|CS5|160|Weapons
+Base.CZ75|CZ75|160|Weapons
+Base.CZ805|CZ805|160|Weapons
+Base.CZScorpion|CZScorpion|160|Weapons
+Base.Carcano|Carcano|160|Weapons
+Base.CarcanoCarbine1891|Carcano Carbine1891|320|Weapons
+Base.CeiRigotti|Cei Rigotti|160|Weapons
+Base.ChairLeg_Nails|Chair Leg with Nails|3|Weapons
+Base.ChinaLake|China Lake|240|Weapons
+Base.CircuitJudgeRifle|Circuit Judge Rifle|320|Weapons
+Base.Colt9mm|Colt9mm|160|Weapons
+Base.ColtNavy1851|Colt Navy1851|160|Weapons
+Base.ColtNavyExorcist|Colt Navy Exorcist|160|Weapons
+Base.ColtPeacemaker1873|Colt Peacemaker1873|240|Weapons
+Base.Comp_M4|Comp M4|160|Weapons
+Base.Compact4x|Compact4x|160|Weapons
+Base.Coonan357|Coonan357|160|Weapons
+Base.Coyote|Coyote|160|Weapons
+Base.CrimsonRedDot|Crimson Red Dot|160|Weapons
+Base.Crossbow|Crossbow|160|Weapons
+Base.Crossbow_TenPoint|Crossbow Ten Point|160|Weapons
+Base.Crossbow_TenPoint_hunting|Crossbow Ten Point hunting|160|Weapons
+Base.Crossbow_hunting|Crossbow hunting|160|Weapons
+Base.Crossbow_medieval|Crossbow medieval|160|Weapons
+Base.Crossbow_zhnets|Crossbow zhnets|160|Weapons
+Base.DBAL_A2|DBAL A2|160|Weapons
+Base.DB_Condor|DB Condor|160|Weapons
+Base.DB_Condor_sawn|DB Condor sawn|160|Weapons
+Base.DDM4|DDM4|160|Weapons
+Base.DVB15|DVB15|160|Weapons
+Base.Dbal9021|Dbal9021|160|Weapons
+Base.DeLisle|De Lisle|160|Weapons
+Base.Deagle357_gold|Deagle357 gold|160|Weapons
+Base.Deagle50AE|Deagle50AE|160|Weapons
+Base.DeagleCar14|Deagle Car14|160|Weapons
+Base.Deltapoint|Deltapoint|160|Weapons
+Base.DoubleBarrelShotgun|Double Barrel Shotgun|190|Weapons
+Base.ENARM_Pentagun|ENARM Pentagun|160|Weapons
+Base.Elcan_M145|Elcan M145|160|Weapons
+Base.Enfield|Enfield|160|Weapons
+Base.Enfield1917|Enfield1917|160|Weapons
+Base.FAL|FAL|160|Weapons
+Base.FAL_CQB|FAL CQB|160|Weapons
+Base.FAMAS|FAMAS|160|Weapons
+Base.FN2000|FN2000|160|Weapons
+Base.FN502_22LR|FN502 22LR|160|Weapons
+Base.FNX45|FNX45|160|Weapons
+Base.FarquharHill|Farquhar Hill|160|Weapons
+Base.FedorovAvtomat|Fedorov Avtomat|160|Weapons
+Base.FedorovAvtomatMaxim|Fedorov Avtomat Maxim|160|Weapons
+Base.FiveSeven|Five Seven|160|Weapons
+Base.FletchedChickenFeather|Fletched Chicken Feather|160|Weapons
+Base.G17|G17|160|Weapons
+Base.G18|G18|160|Weapons
+Base.G2|G2|160|Weapons
+Base.G27|G27|160|Weapons
+Base.G36C|G36C|160|Weapons
+Base.G3A3|G3A3|160|Weapons
+Base.G43|G43|160|Weapons
+Base.GM94|GM94|160|Weapons
+Base.GOL|GOL|160|Weapons
+Base.GP30_GL|GP30 GL|160|Weapons
+Base.GP30_GL_empty|GP30 GL empty|160|Weapons
+Base.GSH18|GSH18|160|Weapons
+Base.Galil|Galil|160|Weapons
+Base.Glock23|Glock23|160|Weapons
+Base.Glock43|Glock43|160|Weapons
+Base.GrenadeAmmo|Grenade Ammo|1200|Weapons
+Base.GrenadeAmmo_incendiary|Grenade Ammo incendiary|1200|Weapons
+Base.Grizzly50AE|Grizzly50AE|160|Weapons
+Base.Groza|Groza|160|Weapons
+Base.HAMR|HAMR|160|Weapons
+Base.HE_explosion|HE explosion|160|Weapons
+Base.HK416|HK416|160|Weapons
+Base.HKG28|HKG28|160|Weapons
+Base.HKMK23|HKMK23|160|Weapons
+Base.HK_121|HK 121|160|Weapons
+Base.Hatchet_Bone|Bone Hatchet|3|Weapons
+Base.HoneyBadger|Honey Badger|160|Weapons
+Base.HuntingKnife|Hunting Knife|10|Weapons
+Base.HuntingRifle|Hunting Rifle|320|Weapons
+Base.HuotAutomaticRifle|Huot Automatic Rifle|320|Weapons
+Base.IA2|IA2|160|Weapons
+Base.IA2_308|IA2 308|160|Weapons
+Base.IRNV|IRNV|160|Weapons
+Base.JNG90|JNG90|160|Weapons
+Base.Jackhammer|Jackhammer|160|Weapons
+Base.Jericho941|Jericho941|160|Weapons
+Base.K2|K2|160|Weapons
+Base.K7|K7|160|Weapons
+Base.KAC_PDW|KAC PDW|160|Weapons
+Base.KS23|KS23|160|Weapons
+Base.KSG|KSG|160|Weapons
+Base.Kark98|Kark98|160|Weapons
+Base.Katana|Katana|400|Weapons
+Base.Kimber1911|Kimber1911|160|Weapons
+Base.Kriss9mm|Kriss9mm|160|Weapons
+Base.KrissVector45|Kriss Vector45|160|Weapons
+Base.L115A|L115A|160|Weapons
+Base.L85|L85|160|Weapons
+Base.L86|L86|160|Weapons
+Base.L96|L96|160|Weapons
+Base.LR300|LR300|160|Weapons
+Base.LSAT|LSAT|160|Weapons
+Base.LVOA|LVOA|160|Weapons
+Base.LanchesterMK1|Lanchester MK1|160|Weapons
+Base.Leapers_UTG3|Leapers UTG3|160|Weapons
+Base.Lewis|Lewis|160|Weapons
+Base.M1|M1|160|Weapons
+Base.M110|M110|160|Weapons
+Base.M16A2|M16A2|160|Weapons
+Base.M1887|M1887|160|Weapons
+Base.M1887_Short|M1887 Short|160|Weapons
+Base.M1A1|M1A1|160|Weapons
+Base.M200|M200|160|Weapons
+Base.M202A1|M202A1|160|Weapons
+Base.M203_GL|M203 GL|160|Weapons
+Base.M203_GL_empty|M203 GL empty|160|Weapons
+Base.M21|M21|160|Weapons
+Base.M24|M24|160|Weapons
+Base.M240B|M240B|1200|Weapons
+Base.M249|M249|160|Weapons
+Base.M320_GL|M320 GL|160|Weapons
+Base.M320_GL_empty|M320 GL empty|160|Weapons
+Base.M39|M39|160|Weapons
+Base.M4|M4|160|Weapons
+Base.M40|M40|160|Weapons
+Base.M600P|M600P|160|Weapons
+Base.M60E4|M60E4|160|Weapons
+Base.M620|M620|160|Weapons
+Base.M67|M67|160|Weapons
+Base.M79|M79|1200|Weapons
+Base.M82A3|M82A3|160|Weapons
+Base.M93R|M93R|160|Weapons
+Base.M962LT|M962LT|160|Weapons
+Base.M98B|M98B|160|Weapons
+Base.M9_Samurai|M9 Samurai|160|Weapons
+Base.MAB38A|MAB38A|160|Weapons
+Base.MAC10|MAC10|160|Weapons
+Base.MAS36|MAS36|160|Weapons
+Base.MAT49|MAT49|160|Weapons
+Base.MG131|MG131|1200|Weapons
+Base.MG4|MG4|160|Weapons
+Base.MG42|MG42|160|Weapons
+Base.MG710|MG710|160|Weapons
+Base.MK18|MK18|160|Weapons
+Base.MLG|MLG|160|Weapons
+Base.MP18|MP18|160|Weapons
+Base.MP1911|MP1911|160|Weapons
+Base.MP40|MP40|160|Weapons
+Base.MP5|MP5|240|Weapons
+Base.MP5K|MP5K|240|Weapons
+Base.MP5SD|MP5SD|240|Weapons
+Base.MP7|MP7|160|Weapons
+Base.MP9|MP9|160|Weapons
+Base.MPX|MPX|160|Weapons
+Base.MP_R8|MP R8|160|Weapons
+Base.MSST|MSST|160|Weapons
+Base.MTAR|MTAR|160|Weapons
+Base.MTS_255|MTS 255|160|Weapons
+Base.MTS_255_Short|MTS 255 Short|160|Weapons
+Base.MX4|MX4|160|Weapons
+Base.MannlicherM1895|Mannlicher M1895|160|Weapons
+Base.MannlicherM1895_long|Mannlicher M1895 long|160|Weapons
+Base.MartiniHenry|Martini Henry|160|Weapons
+Base.MatebaGrifone|Mateba Grifone|160|Weapons
+Base.Mauser98|Mauser98|160|Weapons
+Base.MauserSelbstladerM1916|Mauser Selbstlader M1916|160|Weapons
+Base.MicroT1|Micro T1|160|Weapons
+Base.Micro_UZI|Micro UZI|160|Weapons
+Base.MiniRedDot|Mini Red Dot|160|Weapons
+Base.Mini_14|Mini 14|160|Weapons
+Base.Minigun|Minigun|1200|Weapons
+Base.Minimi|Minimi|160|Weapons
+Base.Mondragon|Mondragon|160|Weapons
+Base.Mosin|Mosin|160|Weapons
+Base.MosinNagant1891|Mosin Nagant1891|160|Weapons
+Base.Mossber500|Mossber500|160|Weapons
+Base.Mossber590|Mossber590|160|Weapons
+Base.Nagant_M1895|Nagant M1895|160|Weapons
+Base.Negev|Negev|160|Weapons
+Base.OTS_33|OTS 33|160|Weapons
+Base.OilFilter|Oil Filter|160|Weapons
+Base.P220|P220|160|Weapons
+Base.P220_Elite|P220 Elite|160|Weapons
+Base.P228|P228|160|Weapons
+Base.P90|P90|160|Weapons
+Base.P99|P99|160|Weapons
+Base.P99_Kilin|P99 Kilin|160|Weapons
+Base.PB6P9|PB6P9|160|Weapons
+Base.PKA|PKA|160|Weapons
+Base.PKP|PKP|160|Weapons
+Base.PM_IILP|PM IILP|160|Weapons
+Base.POSP|POSP|160|Weapons
+Base.POSP4x24|POSP4x24|160|Weapons
+Base.PP2000|PP2000|160|Weapons
+Base.PP93|PP93|160|Weapons
+Base.PPSH41|PPSH41|160|Weapons
+Base.PP_Bizon|PP Bizon|160|Weapons
+Base.PieperM1893|Pieper M1893|160|Weapons
+Base.Pistol|Pistol|240|Weapons
+Base.Pistol2|Pistol2|240|Weapons
+Base.Pistol3|Pistol3|240|Weapons
+Base.Primitive_ArrowShard|Primitive Arrow Shard|160|Weapons
+Base.Primitive_Bow|Primitive Bow|160|Weapons
+Base.Primitive_DrawString|Primitive Draw String|160|Weapons
+Base.Primitive_Quiver|Primitive Quiver|160|Weapons
+Base.Python357|Python357|160|Weapons
+Base.QBA|QBA|160|Weapons
+Base.QBB95|QBB95|160|Weapons
+Base.QBS09|QBS09|160|Weapons
+Base.QBS09_Short|QBS09 Short|160|Weapons
+Base.QBZ951|QBZ951|160|Weapons
+Base.R5|R5|160|Weapons
+Base.RDS|RDS|160|Weapons
+Base.RG6|RG6|160|Weapons
+Base.RGD5|RGD5|160|Weapons
+Base.RMB93|RMB93|160|Weapons
+Base.RPD|RPD|160|Weapons
+Base.RPG7|RPG7|160|Weapons
+Base.RPG7_RocketAmmo|RPG7 Rocket Ammo|160|Weapons
+Base.RPK|RPK|160|Weapons
+Base.RPK12|RPK12|160|Weapons
+Base.RPK16|RPK16|160|Weapons
+Base.RSC1917|RSC1917|160|Weapons
+Base.RSH12|RSH12|160|Weapons
+Base.RX01|RX01|160|Weapons
+Base.RedDot|Red Dot|160|Weapons
+Base.Remington1100|Remington1100|160|Weapons
+Base.Remington1100_Short|Remington1100 Short|160|Weapons
+Base.Remington121|Remington121|160|Weapons
+Base.Remington870|Remington870|160|Weapons
+Base.Remington870_Short|Remington870 Short|160|Weapons
+Base.RemingtonModel8|Remington Model8|160|Weapons
+Base.Revolver|Revolver|240|Weapons
+Base.Revolver38|Revolver38|240|Weapons
+Base.Revolver666|Revolver666|240|Weapons
+Base.Revolver_Long|Long Revolver|170|Weapons
+Base.Revolver_Short|Short Revolver|140|Weapons
+Base.Revolver_long|Revolver long|240|Weapons
+Base.Revolver_short|Revolver short|240|Weapons
+Base.Rhino20DS|Rhino20DS|160|Weapons
+Base.Rocket_explosion|Rocket explosion|160|Weapons
+Base.Romeo3|Romeo3|160|Weapons
+Base.RossMK3|Ross MK3|160|Weapons
+Base.Ruger10_22|Ruger10 22|160|Weapons
+Base.Ruger357|Ruger357|160|Weapons
+Base.RugerLC|Ruger LC|160|Weapons
+Base.SA58|SA58|160|Weapons
+Base.SAR21|SAR21|160|Weapons
+Base.SIG516|SIG516|160|Weapons
+Base.SIG_553|SIG 553|160|Weapons
+Base.SKS|SKS|160|Weapons
+Base.SKS_carbine|SKS carbine|320|Weapons
+Base.SKS_carbine_short|SKS carbine short|320|Weapons
+Base.SLDG|SLDG|160|Weapons
+Base.SPAS12|SPAS12|160|Weapons
+Base.SPAS15|SPAS15|160|Weapons
+Base.SR1M|SR1M|160|Weapons
+Base.SR338|SR338|160|Weapons
+Base.SR3M|SR3M|160|Weapons
+Base.SR47|SR47|160|Weapons
+Base.SS2V5|SS2V5|160|Weapons
+Base.SUSAT|SUSAT|160|Weapons
+Base.SV98|SV98|160|Weapons
+Base.SVD|SVD|160|Weapons
+Base.SVD12|SVD12|160|Weapons
+Base.SVDK|SVDK|160|Weapons
+Base.SVDK_short|SVDK short|160|Weapons
+Base.SVD_short|SVD short|160|Weapons
+Base.SVT_40|SVT 40|160|Weapons
+Base.SVU|SVU|160|Weapons
+Base.SW1905|SW1905|160|Weapons
+Base.SW1917|SW1917|160|Weapons
+Base.SW500|SW500|160|Weapons
+Base.SW629|SW629|160|Weapons
+Base.SWM1854|SWM1854|160|Weapons
+Base.SWM1894|SWM1894|160|Weapons
+Base.SWM3|SWM3|160|Weapons
+Base.SWM327|SWM327|160|Weapons
+Base.SWM629_Deluxe|SWM629 Deluxe|160|Weapons
+Base.SWMP_12|SWMP 12|160|Weapons
+Base.Saiga12|Saiga12|160|Weapons
+Base.Saiga9mm|Saiga9mm|160|Weapons
+Base.Samurai_aw|Samurai aw|160|Weapons
+Base.Samurai_kendo|Samurai kendo|160|Weapons
+Base.ScarH|Scar H|160|Weapons
+Base.ScarL|Scar L|160|Weapons
+Base.Scar_GL|Scar GL|160|Weapons
+Base.Scar_GL_empty|Scar GL empty|160|Weapons
+Base.Schofield1875|Schofield1875|160|Weapons
+Base.Scout_elite|Scout elite|160|Weapons
+Base.ScrapRevolver|Scrap Revolver|240|Weapons
+Base.Selbstlader1906|Selbstlader1906|160|Weapons
+Base.ShellHolder|Shell Holder|160|Weapons
+Base.Shorty|Shorty|160|Weapons
+Base.Shotgun|Shotgun|180|Weapons
+Base.SigSauerRomeo3|Sig Sauer Romeo3|160|Weapons
+Base.Silenced_Sten|Silenced Sten|160|Weapons
+Base.Sjorgen|Sjorgen|160|Weapons
+Base.Sjorgen_Short|Sjorgen Short|160|Weapons
+Base.Sling|Sling|160|Weapons
+Base.Snub22LR|Snub22LR|160|Weapons
+Base.SpearScrewdriver|Spear with Screwdriver|4|Weapons
+Base.Spectre|Spectre|160|Weapons
+Base.Springfield1903|Springfield1903|160|Weapons
+Base.Springfield_sniper|Springfield sniper|320|Weapons
+Base.SteinerTac2|Steiner Tac2|160|Weapons
+Base.Sten_MK5|Sten MK5|160|Weapons
+Base.Striker|Striker|160|Weapons
+Base.TEC9|TEC9|160|Weapons
+Base.TMP|TMP|160|Weapons
+Base.TankgewehrM1918|Tankgewehr M1918|160|Weapons
+Base.Taurus606|Taurus606|160|Weapons
+Base.Taurus_RT85|Taurus RT85|160|Weapons
+Base.Taurus_raging_bull|Taurus raging bull|160|Weapons
+Base.Taurus_raging_bull460|Taurus raging bull460|160|Weapons
+Base.Thompson|Thompson|160|Weapons
+Base.TruBrite|Tru Brite|160|Weapons
+Base.Type81|Type81|160|Weapons
+Base.Type88|Type88|160|Weapons
+Base.UMP45|UMP45|160|Weapons
+Base.UMP45_long|UMP45 long|160|Weapons
+Base.USAS12|USAS12|160|Weapons
+Base.USP45|USP45|160|Weapons
+Base.UZI|UZI|160|Weapons
+Base.VEPR|VEPR|160|Weapons
+Base.VP70|VP70|160|Weapons
+Base.VR80|VR80|160|Weapons
+Base.VSK|VSK|160|Weapons
+Base.VSS|VSS|160|Weapons
+Base.VSSK|VSSK|160|Weapons
+Base.VSS_stock_wood|VSS stock wood|160|Weapons
+Base.VZ58|VZ58|160|Weapons
+Base.VZ61|VZ61|160|Weapons
+Base.V_M87|V M87|160|Weapons
+Base.ValmetM82|Valmet M82|160|Weapons
+Base.VarmintRifle|Varmint Rifle|320|Weapons
+Base.VenomRDS|Venom RDS|160|Weapons
+Base.Veresk|Veresk|160|Weapons
+Base.VictorySW22|Victory SW22|160|Weapons
+Base.VortexRedDot|Vortex Red Dot|160|Weapons
+Base.WA2000|WA2000|160|Weapons
+Base.Walther_P38|Walther P38|160|Weapons
+Base.WaterBottle_ductaped|Water Bottle ductaped|160|Weapons
+Base.Webley_MK_snub|Webley MK snub|160|Weapons
+Base.Webley_Revolver|Webley Revolver|240|Weapons
+Base.Wieger940|Wieger940|160|Weapons
+Base.Wieger940_folding|Wieger940 folding|160|Weapons
+Base.Wildey|Wildey|160|Weapons
+Base.Winchester1886|Winchester1886|160|Weapons
+Base.Winchester1895|Winchester1895|160|Weapons
+Base.Winchester1897|Winchester1897|160|Weapons
+Base.WoodShaft_Arrow|Wood Shaft Arrow|160|Weapons
+Base.X86|X86|160|Weapons
+Base.XD|XD|160|Weapons
+Base.XM8|XM8|160|Weapons
+Base.ZaMiniRDS|Za Mini RDS|160|Weapons
+Base.Zeiss4x25|Zeiss4x25|160|Weapons
+Base.ak74_std_plastic|ak74 std plastic|240|Weapons
+Base.ak74_stock_plum|ak74 stock plum|240|Weapons
+Base.ak74m_stock_std|ak74m stock std|240|Weapons
+Base.ak_stock_archangel|ak stock archangel|240|Weapons
+Base.ak_stock_fab|ak stock fab|240|Weapons
+Base.ak_stock_fold|ak stock fold|240|Weapons
+Base.ak_stock_hera|ak stock hera|240|Weapons
+Base.ak_stock_hexagon|ak stock hexagon|240|Weapons
+Base.ak_stock_wrapped|ak stock wrapped|240|Weapons
+Base.aluminum_skeletonized|aluminum skeletonized|160|Weapons
+Base.ar15_troy_pdw_stock_blk|ar15 troy pdw stock blk|160|Weapons
+Base.ar15_troy_pdw_stock_fde|ar15 troy pdw stock fde|160|Weapons
+Base.ar15_wing_and_skull_12|ar15 wing and skull 12|160|Weapons
+Base.ax_base_pad|ax base pad|160|Weapons
+Base.bcm|bcm|160|Weapons
+Base.box_pistol_bullet_tip|box pistol bullet tip|240|Weapons
+Base.box_revolver_bullet_tip|box revolver bullet tip|240|Weapons
+Base.box_rifle_bullet_tip|box rifle bullet tip|320|Weapons
+Base.box_shotgun_buckshot|box shotgun buckshot|320|Weapons
+Base.decorated_Quiver|decorated Quiver|160|Weapons
+Base.f1|f1|160|Weapons
+Base.fortis_shift|fortis shift|160|Weapons
+Base.hera_arms|hera arms|160|Weapons
+Base.hk_sturmgriff|hk sturmgriff|160|Weapons
+Base.keymod_sig|keymod sig|160|Weapons
+Base.pistol_bullet_tip|pistol bullet tip|240|Weapons
+Base.pistol_shotgun|pistol shotgun|320|Weapons
+Base.pk_stock_plastic|pk stock plastic|160|Weapons
+Base.pk_stock_wood|pk stock wood|160|Weapons
+Base.revolver_bullet_tip|revolver bullet tip|240|Weapons
+Base.rifle_bullet_tip|rifle bullet tip|320|Weapons
+Base.rifle_cloth|rifle cloth|320|Weapons
+Base.rifle_wrap_b|rifle wrap b|320|Weapons
+Base.rtm_pillau|rtm pillau|160|Weapons
+Base.shotgun_buckshot|shotgun buckshot|320|Weapons
+Base.stark_se|stark se|160|Weapons
+Base.stielhandgranate|stielhandgranate|160|Weapons
+Base.sup2|sup2|160|Weapons
+Base.svd_stock_wood|svd stock wood|160|Weapons
+Base.tango_down|tango down|160|Weapons
+Base.u108|u108|160|Weapons
+Base.vtac_uvg|vtac uvg|160|Weapons
+Base.win_1886_stock_wood|win 1886 stock wood|160|Weapons
+Base.win_SWM1854_stock_wood|win SWM1854 stock wood|160|Weapons
+MarzGuns.40mm_Incendiary_Explosion|40mm Incendiary Explosion|240|Weapons
+MarzGuns.AA12|AA-12 Automatic Shotgun|440|Weapons
+MarzGuns.AK47|AK-47 Assault Rifle|240|Weapons
+MarzGuns.AK74|AK-74 Assault Rifle|240|Weapons
+MarzGuns.AKS74U|AKS-74U Assault Rifle|240|Weapons
+MarzGuns.AR15|AR-15 Civilian Rifle|240|Weapons
+MarzGuns.ASVAL|AS VAL Assault Rifle|240|Weapons
+MarzGuns.Attack_Bayonet|Attack Bayonet|240|Weapons
+MarzGuns.BAR|Browning Automatic Rifle|240|Weapons
+MarzGuns.BENELLI_M4|Benelli M4 Semi-Shotgun|240|Weapons
+MarzGuns.CAR15|CAR-15 Assault Rifle|240|Weapons
+MarzGuns.COLT_SINGLE|Colt Single Action Revolver|240|Weapons
+MarzGuns.DEAGLE|.50 Desert Eagle|440|Weapons
+MarzGuns.DETECTIVE_38|Detective .38 Revolver|240|Weapons
+MarzGuns.DOUBLEBARREL|Double Barrel Shotgun|240|Weapons
+MarzGuns.Elvorenstein_Tacticool_Knife|Elvorenstein Tacticool Knife|240|Weapons
+MarzGuns.FAL|FN FAL Battle Rifle|240|Weapons
+MarzGuns.FAMAS|FAMAS Assault Rifle|240|Weapons
+MarzGuns.FNC|FN FNC Assault Rifle|240|Weapons
+MarzGuns.G3|G3 Battle Rifle|240|Weapons
+MarzGuns.G36|G36 Assault Rifle|240|Weapons
+MarzGuns.G36C|G36C Assault Rifle|240|Weapons
+MarzGuns.HIPOWER|Browning Hi-Power|240|Weapons
+MarzGuns.K98_BAYONET|Karabiner 98k Bayonet|240|Weapons
+MarzGuns.M14|M14 Battle Rifle|240|Weapons
+MarzGuns.M14_Incendiary|M14 Incendiary Grenade|240|Weapons
+MarzGuns.M16A1|M16A1 Assault Rifle|240|Weapons
+MarzGuns.M16A2|M16A2 Assault Rifle|240|Weapons
+MarzGuns.M16A2_M203|M16A2 Assault Rifle with M203|440|Weapons
+MarzGuns.M16A3|M16A3 Assault Rifle|240|Weapons
+MarzGuns.M18|M18 Smoke Grenade|240|Weapons
+MarzGuns.M1895|Marlin 1895 Rifle|240|Weapons
+MarzGuns.M1903|M1903 Springfield Bolt Rifle|240|Weapons
+MarzGuns.M1911|Colt M1911|240|Weapons
+MarzGuns.M1_GARAND|M1 Garand Battle Rifle|240|Weapons
+MarzGuns.M203_Weapon|M203 Weapon|440|Weapons
+MarzGuns.M24|M24 Sniper Rifle|240|Weapons
+MarzGuns.M4|M4 Assault Rifle|240|Weapons
+MarzGuns.M4A1|M4A1 Assault Rifle|240|Weapons
+MarzGuns.M5_BAYONET|M5 Bayonet|240|Weapons
+MarzGuns.M60|M60 Machine Gun|440|Weapons
+MarzGuns.M67|M67 Fragmentation Grenade|240|Weapons
+MarzGuns.M79|M79 Grenade Launcher|240|Weapons
+MarzGuns.M92FS|Beretta M92FS|240|Weapons
+MarzGuns.M93R|Beretta Burst M93R|240|Weapons
+MarzGuns.M9_BAYONET|M9 Bayonet|240|Weapons
+MarzGuns.MAC10|Ingram MAC-10 Machine Pistol|240|Weapons
+MarzGuns.MOSIN|Mosin-Nagant Bolt Rifle|240|Weapons
+MarzGuns.MOSSBERG_590|Mossberg 590 Shotgun|240|Weapons
+MarzGuns.MP412|MP-412 Revolver|240|Weapons
+MarzGuns.MP5|MP5 Submachine Gun|240|Weapons
+MarzGuns.MP5A2|MP5A2 Submachine Gun|240|Weapons
+MarzGuns.MP5K|MP5K Submachine Gun|240|Weapons
+MarzGuns.MP5SD|MP5SD Submachine Gun|240|Weapons
+MarzGuns.P226|Sig Sauer P226|240|Weapons
+MarzGuns.PSG1|PSG-1 Semi-Automatic Rifle|240|Weapons
+MarzGuns.PYTHON|Colt Python Revolver|240|Weapons
+MarzGuns.REMINGTON_870|Remington 870 Shotgun|240|Weapons
+MarzGuns.RHINO|Rhino Revolver|240|Weapons
+MarzGuns.SKS|SKS Carbine|240|Weapons
+MarzGuns.SPAS12|SPAS-12 Semi-Shotgun|240|Weapons
+MarzGuns.STEVENS_555|Stevens 555 Double Barrel Shotgun|240|Weapons
+MarzGuns.SVD|SVD Semi-Automatic Rifle|240|Weapons
+MarzGuns.SW629|Smith & Wesson Model 629|240|Weapons
+MarzGuns.TEC9|TEC-9 Machine Pistol|240|Weapons
+MarzGuns.THOMPSON|Thompson Submachine Gun|240|Weapons
+MarzGuns.TOZ34|TOZ34|240|Weapons
+MarzGuns.TRENCHGUN|Trench Shotgun|240|Weapons
+MarzGuns.USP|Heckler & Koch USP|240|Weapons
+MarzGuns.VP70M|Heckler & Koch VP70M|240|Weapons
+MarzGuns.W1873|Winchester 1873 Rifle|240|Weapons
+MarzGuns.W1873_CARBINE|Winchester 1873 Short Carbine|240|Weapons
+MarzGuns.W1887|Winchester 1887 Shotgun|240|Weapons
+MarzGuns.W1894|Winchester 1894 Rifle|240|Weapons
+MarzGuns.XM177|XM177 Assault Rifle|240|Weapons
+
+# --- Ammo ---
+Base.12GClip|12GClip|16|Ammo
+Base.12GClip14|12GClip14|16|Ammo
+Base.12GDrum24|12GDrum24|36|Ammo
+Base.223Box|223 Ammo Box|18|Ammo
+Base.22LRClip|22LRClip|16|Ammo
+Base.22LRClip50|22LRClip50|16|Ammo
+Base.22LRDrum100|22LRDrum100|36|Ammo
+Base.303Box|303Box|16|Ammo
+Base.303Bullets|303Bullets|16|Ammo
+Base.303Carton|303Carton|16|Ammo
+Base.303Clip20|303Clip20|16|Ammo
+Base.303Drum50|303Drum50|36|Ammo
+Base.308Box|308Box|16|Ammo
+Base.308Box150|308Box150|16|Ammo
+Base.308Bullets|308Bullets|16|Ammo
+Base.308Carton|308Carton|16|Ammo
+Base.308Clip|308Clip|16|Ammo
+Base.308Clip40|308Clip40|16|Ammo
+Base.308Drum100|308Drum100|36|Ammo
+Base.308Drum60|308Drum60|36|Ammo
+Base.30_06Box|30 06Box|16|Ammo
+Base.30_06Bullets|30 06Bullets|16|Ammo
+Base.30_06Carton|30 06Carton|16|Ammo
+Base.30_06Clip|30 06Clip|16|Ammo
+Base.30_06Clip40|30 06Clip40|16|Ammo
+Base.357Clip|357Clip|16|Ammo
+Base.357Drum45|357Drum45|36|Ammo
+Base.44Clip|44Clip|16|Ammo
+Base.44Clip20|44Clip20|16|Ammo
+Base.44Drum50|44Drum50|36|Ammo
+Base.45Clip|45Clip|16|Ammo
+Base.45Clip25|45Clip25|16|Ammo
+Base.45Clip30old|45Clip30old|16|Ammo
+Base.45Drum100|45Drum100|36|Ammo
+Base.45Drum50|45Drum50|36|Ammo
+Base.45Drum60old|45Drum60old|36|Ammo
+Base.50Clip|50Clip|16|Ammo
+Base.50Clip18|50Clip18|16|Ammo
+Base.50MagnumClip|50Magnum Clip|16|Ammo
+Base.50MagnumClip18|50Magnum Clip18|16|Ammo
+Base.50MagnumDrum40|50Magnum Drum40|36|Ammo
+Base.545x39Box|545x39Box|16|Ammo
+Base.545x39Bullets|545x39Bullets|16|Ammo
+Base.545x39Carton|545x39Carton|16|Ammo
+Base.545x39Clip30|545x39Clip30|16|Ammo
+Base.545x39Clip60|545x39Clip60|16|Ammo
+Base.545x39Drum100|545x39Drum100|36|Ammo
+Base.556Box|556Box|16|Ammo
+Base.556Box150|556Box150|16|Ammo
+Base.556Bullets|556Bullets|16|Ammo
+Base.556Carton|556Carton|16|Ammo
+Base.556Clip|556Clip|16|Ammo
+Base.556Drum_100rnd|556Drum 100rnd|36|Ammo
+Base.556Drum_60rnd|556Drum 60rnd|36|Ammo
+Base.762x39Box|762x39Box|16|Ammo
+Base.762x39Bullets|762x39Bullets|16|Ammo
+Base.762x39Carton|762x39Carton|16|Ammo
+Base.762x39Clip|762x39Clip|16|Ammo
+Base.762x39Clip45|762x39Clip45|16|Ammo
+Base.762x39Drum100|762x39Drum100|36|Ammo
+Base.762x39Drum73|762x39Drum73|36|Ammo
+Base.762x54rBox|762x54r Box|16|Ammo
+Base.762x54rBox150|762x54r Box150|16|Ammo
+Base.762x54rBullets|762x54r Bullets|16|Ammo
+Base.762x54rCarton|762x54r Carton|16|Ammo
+Base.762x54rClip|762x54r Clip|16|Ammo
+Base.762x54rClip40|762x54r Clip40|16|Ammo
+Base.792x57Box|792x57Box|16|Ammo
+Base.792x57Box75|792x57Box75|16|Ammo
+Base.792x57Box97|792x57Box97|16|Ammo
+Base.792x57Bullets|792x57Bullets|16|Ammo
+Base.792x57Carton|792x57Carton|16|Ammo
+Base.792x57Clip|792x57Clip|16|Ammo
+Base.9mmClip|9mm Clip|16|Ammo
+Base.9mmClip100old|9mm Clip100old|16|Ammo
+Base.9mmClip30|9mm Clip30|16|Ammo
+Base.9mmClip30old|9mm Clip30old|16|Ammo
+Base.9mmClip70old|9mm Clip70old|16|Ammo
+Base.9mmDrum100|9mm Drum100|36|Ammo
+Base.9mmDrum50|9mm Drum50|36|Ammo
+Base.9mmDrum75|9mm Drum75|36|Ammo
+Base.9x39Box|9x39Box|16|Ammo
+Base.9x39Bullets|9x39Bullets|16|Ammo
+Base.9x39Clip|9x39Clip|16|Ammo
+Base.9x39Clip40|9x39Clip40|16|Ammo
+Base.9x39Drum60|9x39Drum60|36|Ammo
+Base.AMMO_arrow_carbon_part|AMMO arrow carbon part|16|Ammo
+Base.AMMO_arrow_metal_part|AMMO arrow metal part|16|Ammo
+Base.AMMO_arrow_wood_part|AMMO arrow wood part|16|Ammo
+Base.Arrow_fly|Arrow fly|16|Ammo
+Base.BizonClip64|Bizon Clip64|16|Ammo
+Base.Bullets22Carton|Bullets22Carton|16|Ammo
+Base.Bullets22LR|Bullets22LR|16|Ammo
+Base.Bullets22LRBox|Bullets22LRBox|16|Ammo
+Base.Bullets32|Bullets32|16|Ammo
+Base.Bullets32Box|Bullets32Box|16|Ammo
+Base.Bullets32Carton|Bullets32Carton|16|Ammo
+Base.Bullets357|Bullets357|16|Ammo
+Base.Bullets357Box|Bullets357Box|16|Ammo
+Base.Bullets357Carton|Bullets357Carton|16|Ammo
+Base.Bullets38|Bullets38|16|Ammo
+Base.Bullets38Box|Bullets38Box|16|Ammo
+Base.Bullets38Carton|Bullets38Carton|16|Ammo
+Base.Bullets44|Bullets44|16|Ammo
+Base.Bullets44Box|Bullets44Box|16|Ammo
+Base.Bullets44Carton|Bullets44Carton|16|Ammo
+Base.Bullets45|Bullets45|16|Ammo
+Base.Bullets45Box|Bullets45Box|16|Ammo
+Base.Bullets45Carton|Bullets45Carton|16|Ammo
+Base.Bullets50|Bullets50|16|Ammo
+Base.Bullets50Box|Bullets50Box|16|Ammo
+Base.Bullets50CalCarton|Bullets50Cal Carton|16|Ammo
+Base.Bullets50Magnum|Bullets50Magnum|16|Ammo
+Base.Bullets50MagnumBox|Bullets50Magnum Box|16|Ammo
+Base.Bullets50MagnumCarton|Bullets50Magnum Carton|16|Ammo
+Base.Bullets9mm|Bullets9mm|16|Ammo
+Base.Bullets9mmBox|Bullets9mm Box|16|Ammo
+Base.Bullets9mmCarton|Bullets9mm Carton|16|Ammo
+Base.Bullets9x39Carton|Bullets9x39Carton|16|Ammo
+Base.Clip_12GClip|Clip 12GClip|36|Ammo
+Base.Clip_12GClip14|Clip 12GClip14|36|Ammo
+Base.Clip_12GDrum24|Clip 12GDrum24|36|Ammo
+Base.Clip_22LRClip|Clip 22LRClip|36|Ammo
+Base.Clip_22LRClip50|Clip 22LRClip50|36|Ammo
+Base.Clip_22LRDrum100|Clip 22LRDrum100|36|Ammo
+Base.Clip_308Box150|Clip 308Box150|36|Ammo
+Base.Clip_308Clip|Clip 308Clip|36|Ammo
+Base.Clip_308Clip40|Clip 308Clip40|36|Ammo
+Base.Clip_308Drum100|Clip 308Drum100|36|Ammo
+Base.Clip_308Drum60|Clip 308Drum60|36|Ammo
+Base.Clip_357Clip|Clip 357Clip|36|Ammo
+Base.Clip_357Drum45|Clip 357Drum45|36|Ammo
+Base.Clip_44Clip|Clip 44Clip|36|Ammo
+Base.Clip_44Clip20|Clip 44Clip20|36|Ammo
+Base.Clip_44Drum50|Clip 44Drum50|36|Ammo
+Base.Clip_45Clip|Clip 45Clip|36|Ammo
+Base.Clip_45Clip25|Clip 45Clip25|36|Ammo
+Base.Clip_45Clip30old|Clip 45Clip30old|36|Ammo
+Base.Clip_45Drum100|Clip 45Drum100|36|Ammo
+Base.Clip_45Drum50|Clip 45Drum50|36|Ammo
+Base.Clip_45Drum60old|Clip 45Drum60old|36|Ammo
+Base.Clip_50Clip|Clip 50Clip|36|Ammo
+Base.Clip_50Clip18|Clip 50Clip18|36|Ammo
+Base.Clip_50MagnumClip|Clip 50Magnum Clip|36|Ammo
+Base.Clip_50MagnumClip18|Clip 50Magnum Clip18|36|Ammo
+Base.Clip_50MagnumDrum40|Clip 50Magnum Drum40|36|Ammo
+Base.Clip_545x39Clip30|Clip 545x39Clip30|36|Ammo
+Base.Clip_545x39Clip60|Clip 545x39Clip60|36|Ammo
+Base.Clip_545x39Drum100|Clip 545x39Drum100|36|Ammo
+Base.Clip_556Box150|Clip 556Box150|36|Ammo
+Base.Clip_556Clip|Clip 556Clip|36|Ammo
+Base.Clip_556Drum_100rnd|Clip 556Drum 100rnd|36|Ammo
+Base.Clip_556Drum_60rnd|Clip 556Drum 60rnd|36|Ammo
+Base.Clip_762x39Clip|Clip 762x39Clip|36|Ammo
+Base.Clip_762x39Clip45|Clip 762x39Clip45|36|Ammo
+Base.Clip_762x39Drum100|Clip 762x39Drum100|36|Ammo
+Base.Clip_762x39Drum73|Clip 762x39Drum73|36|Ammo
+Base.Clip_762x54rBox150|Clip 762x54r Box150|36|Ammo
+Base.Clip_762x54rClip|Clip 762x54r Clip|36|Ammo
+Base.Clip_762x54rClip40|Clip 762x54r Clip40|36|Ammo
+Base.Clip_792x57Box75|Clip 792x57Box75|36|Ammo
+Base.Clip_792x57Box97|Clip 792x57Box97|36|Ammo
+Base.Clip_792x57Clip|Clip 792x57Clip|36|Ammo
+Base.Clip_9mmClip|Clip 9mm Clip|36|Ammo
+Base.Clip_9mmClip100old|Clip 9mm Clip100old|36|Ammo
+Base.Clip_9mmClip30|Clip 9mm Clip30|36|Ammo
+Base.Clip_9mmClip30old|Clip 9mm Clip30old|36|Ammo
+Base.Clip_9mmClip50old|Clip 9mm Clip50old|36|Ammo
+Base.Clip_9mmDrum100|Clip 9mm Drum100|36|Ammo
+Base.Clip_9mmDrum50|Clip 9mm Drum50|36|Ammo
+Base.Clip_9mmDrum75|Clip 9mm Drum75|36|Ammo
+Base.Clip_9x39Clip|Clip 9x39Clip|36|Ammo
+Base.Clip_9x39Clip40|Clip 9x39Clip40|36|Ammo
+Base.Clip_9x39Drum60|Clip 9x39Drum60|36|Ammo
+Base.Clip_A2000|Clip A2000|36|Ammo
+Base.Clip_A91|Clip A91|36|Ammo
+Base.Clip_AA12|Clip AA12|36|Ammo
+Base.Clip_ACE21|Clip ACE21|36|Ammo
+Base.Clip_ACE23|Clip ACE23|36|Ammo
+Base.Clip_ACE52_CQB|Clip ACE52 CQB|36|Ammo
+Base.Clip_ACE53|Clip ACE53|36|Ammo
+Base.Clip_ACR|Clip ACR|36|Ammo
+Base.Clip_ADS|Clip ADS|36|Ammo
+Base.Clip_AEK|Clip AEK|36|Ammo
+Base.Clip_AEK919|Clip AEK919|36|Ammo
+Base.Clip_AK101|Clip AK101|36|Ammo
+Base.Clip_AK103|Clip AK103|36|Ammo
+Base.Clip_AK12|Clip AK12|36|Ammo
+Base.Clip_AK19|Clip AK19|36|Ammo
+Base.Clip_AK47|Clip AK47|36|Ammo
+Base.Clip_AK5C|Clip AK5C|36|Ammo
+Base.Clip_AK74|Clip AK74|36|Ammo
+Base.Clip_AK74u|Clip AK74u|36|Ammo
+Base.Clip_AK74u_long|Clip AK74u long|36|Ammo
+Base.Clip_AK9|Clip AK9|36|Ammo
+Base.Clip_AKM|Clip AKM|36|Ammo
+Base.Clip_AKU12|Clip AKU12|36|Ammo
+Base.Clip_AK_minidrako|Clip AK minidrako|36|Ammo
+Base.Clip_AM65|Clip AM65|36|Ammo
+Base.Clip_AMD65|Clip AMD65|36|Ammo
+Base.Clip_AN94|Clip AN94|36|Ammo
+Base.Clip_APC9K|Clip APC9K|36|Ammo
+Base.Clip_AR10|Clip AR10|36|Ammo
+Base.Clip_AR15|Clip AR15|36|Ammo
+Base.Clip_AR160|Clip AR160|36|Ammo
+Base.Clip_AR47|Clip AR47|36|Ammo
+Base.Clip_AR6951|Clip AR6951|36|Ammo
+Base.Clip_ASH_12|Clip ASH 12|36|Ammo
+Base.Clip_AUG_9mm|Clip AUG 9mm|36|Ammo
+Base.Clip_AUG_A1|Clip AUG A1|36|Ammo
+Base.Clip_AUG_A2|Clip AUG A2|36|Ammo
+Base.Clip_AWS|Clip AWS|36|Ammo
+Base.Clip_AssaultRifle|Clip Assault Rifle|36|Ammo
+Base.Clip_AssaultRifle2|Clip Assault Rifle2|36|Ammo
+Base.Clip_Automag357|Clip Automag357|36|Ammo
+Base.Clip_Automag44|Clip Automag44|36|Ammo
+Base.Clip_Automag50AE|Clip Automag50AE|36|Ammo
+Base.Clip_BAR|Clip BAR|36|Ammo
+Base.Clip_Beretta_PX4|Clip Beretta PX4|36|Ammo
+Base.Clip_BizonClip64|Clip Bizon Clip64|36|Ammo
+Base.Clip_BrowningHP|Clip Browning HP|36|Ammo
+Base.Clip_CBJ|Clip CBJ|36|Ammo
+Base.Clip_CETME|Clip CETME|36|Ammo
+Base.Clip_CS5|Clip CS5|36|Ammo
+Base.Clip_CZ75|Clip CZ75|36|Ammo
+Base.Clip_CZ805|Clip CZ805|36|Ammo
+Base.Clip_CZScorpion|Clip CZScorpion|36|Ammo
+Base.Clip_Colt9mm|Clip Colt9mm|36|Ammo
+Base.Clip_Coonan357|Clip Coonan357|36|Ammo
+Base.Clip_DDM4|Clip DDM4|36|Ammo
+Base.Clip_DVB15|Clip DVB15|36|Ammo
+Base.Clip_DeLisle|Clip De Lisle|36|Ammo
+Base.Clip_Deagle357_gold|Clip Deagle357 gold|36|Ammo
+Base.Clip_Deagle50AE|Clip Deagle50AE|36|Ammo
+Base.Clip_DeagleCar14|Clip Deagle Car14|36|Ammo
+Base.Clip_FAL|Clip FAL|36|Ammo
+Base.Clip_FAL_CQB|Clip FAL CQB|36|Ammo
+Base.Clip_FAMAS|Clip FAMAS|36|Ammo
+Base.Clip_FN2000|Clip FN2000|36|Ammo
+Base.Clip_FN502_22LR|Clip FN502 22LR|36|Ammo
+Base.Clip_FNX45|Clip FNX45|36|Ammo
+Base.Clip_FiveSeven|Clip Five Seven|36|Ammo
+Base.Clip_G17|Clip G17|36|Ammo
+Base.Clip_G18|Clip G18|36|Ammo
+Base.Clip_G2|Clip G2|36|Ammo
+Base.Clip_G27|Clip G27|36|Ammo
+Base.Clip_G36C|Clip G36C|36|Ammo
+Base.Clip_G3A3|Clip G3A3|36|Ammo
+Base.Clip_G43|Clip G43|36|Ammo
+Base.Clip_GOL|Clip GOL|36|Ammo
+Base.Clip_GSH18|Clip GSH18|36|Ammo
+Base.Clip_Galil|Clip Galil|36|Ammo
+Base.Clip_Glock23|Clip Glock23|36|Ammo
+Base.Clip_Glock43|Clip Glock43|36|Ammo
+Base.Clip_Glock_tactical|Clip Glock tactical|36|Ammo
+Base.Clip_Grizzly50AE|Clip Grizzly50AE|36|Ammo
+Base.Clip_Groza|Clip Groza|36|Ammo
+Base.Clip_HK416|Clip HK416|36|Ammo
+Base.Clip_HKG28|Clip HKG28|36|Ammo
+Base.Clip_HKMK23|Clip HKMK23|36|Ammo
+Base.Clip_HK_121|Clip HK 121|36|Ammo
+Base.Clip_HoneyBadger|Clip Honey Badger|36|Ammo
+Base.Clip_HuntingRifle|Clip Hunting Rifle|36|Ammo
+Base.Clip_IA2|Clip IA2|36|Ammo
+Base.Clip_IA2_308|Clip IA2 308|36|Ammo
+Base.Clip_JNG90|Clip JNG90|36|Ammo
+Base.Clip_Jericho941|Clip Jericho941|36|Ammo
+Base.Clip_K2|Clip K2|36|Ammo
+Base.Clip_K7|Clip K7|36|Ammo
+Base.Clip_KAC_PDW|Clip KAC PDW|36|Ammo
+Base.Clip_Kimber1911|Clip Kimber1911|36|Ammo
+Base.Clip_Kriss9mm|Clip Kriss9mm|36|Ammo
+Base.Clip_KrissVector45|Clip Kriss Vector45|36|Ammo
+Base.Clip_L115A|Clip L115A|36|Ammo
+Base.Clip_L85|Clip L85|36|Ammo
+Base.Clip_L86|Clip L86|36|Ammo
+Base.Clip_L96|Clip L96|36|Ammo
+Base.Clip_LR300|Clip LR300|36|Ammo
+Base.Clip_LSAT|Clip LSAT|36|Ammo
+Base.Clip_LVOA|Clip LVOA|36|Ammo
+Base.Clip_LanchesterMK1|Clip Lanchester MK1|120|Ammo
+Base.Clip_Lewis|Clip Lewis|36|Ammo
+Base.Clip_M1|Clip M1|36|Ammo
+Base.Clip_M110|Clip M110|36|Ammo
+Base.Clip_M16A2|Clip M16A2|36|Ammo
+Base.Clip_M1A1|Clip M1A1|36|Ammo
+Base.Clip_M200|Clip M200|36|Ammo
+Base.Clip_M21|Clip M21|36|Ammo
+Base.Clip_M24|Clip M24|36|Ammo
+Base.Clip_M240B|Clip M240B|36|Ammo
+Base.Clip_M249|Clip M249|36|Ammo
+Base.Clip_M39|Clip M39|36|Ammo
+Base.Clip_M4|Clip M4|36|Ammo
+Base.Clip_M40|Clip M40|36|Ammo
+Base.Clip_M60E4|Clip M60E4|36|Ammo
+Base.Clip_M82A3|Clip M82A3|36|Ammo
+Base.Clip_M93R|Clip M93R|36|Ammo
+Base.Clip_M98|Clip M98|36|Ammo
+Base.Clip_M98B|Clip M98B|36|Ammo
+Base.Clip_M9_Samurai|Clip M9 Samurai|36|Ammo
+Base.Clip_MAB38A|Clip MAB38A|36|Ammo
+Base.Clip_MAC10|Clip MAC10|36|Ammo
+Base.Clip_MAT49|Clip MAT49|36|Ammo
+Base.Clip_MG4|Clip MG4|36|Ammo
+Base.Clip_MG42|Clip MG42|36|Ammo
+Base.Clip_MG710|Clip MG710|36|Ammo
+Base.Clip_MK18|Clip MK18|36|Ammo
+Base.Clip_MP18|Clip MP18|36|Ammo
+Base.Clip_MP40|Clip MP40|36|Ammo
+Base.Clip_MP5|Clip MP5|36|Ammo
+Base.Clip_MP5K|Clip MP5K|36|Ammo
+Base.Clip_MP5SD|Clip MP5SD|36|Ammo
+Base.Clip_MP7|Clip MP7|36|Ammo
+Base.Clip_MP9|Clip MP9|36|Ammo
+Base.Clip_MPX|Clip MPX|36|Ammo
+Base.Clip_MSST|Clip MSST|36|Ammo
+Base.Clip_MTAR|Clip MTAR|36|Ammo
+Base.Clip_MX4|Clip MX4|36|Ammo
+Base.Clip_Micro_UZI|Clip Micro UZI|36|Ammo
+Base.Clip_Mini_14|Clip Mini 14|36|Ammo
+Base.Clip_Minimi|Clip Minimi|36|Ammo
+Base.Clip_Negev|Clip Negev|36|Ammo
+Base.Clip_OTS_33|Clip OTS 33|36|Ammo
+Base.Clip_P220|Clip P220|36|Ammo
+Base.Clip_P220_Elite|Clip P220 Elite|36|Ammo
+Base.Clip_P228|Clip P228|36|Ammo
+Base.Clip_P38|Clip P38|36|Ammo
+Base.Clip_P90|Clip P90|36|Ammo
+Base.Clip_P90Clip|Clip P90Clip|36|Ammo
+Base.Clip_P99|Clip P99|36|Ammo
+Base.Clip_P99_kilin|Clip P99 kilin|36|Ammo
+Base.Clip_PB6P9|Clip PB6P9|36|Ammo
+Base.Clip_PKP|Clip PKP|36|Ammo
+Base.Clip_PP2000|Clip PP2000|36|Ammo
+Base.Clip_PP93|Clip PP93|36|Ammo
+Base.Clip_PPSH41|Clip PPSH41|36|Ammo
+Base.Clip_PP_Bizon|Clip PP Bizon|36|Ammo
+Base.Clip_Pistol|Clip Pistol|36|Ammo
+Base.Clip_Pistol2|Clip Pistol2|36|Ammo
+Base.Clip_Pistol3|Clip Pistol3|36|Ammo
+Base.Clip_QBA|Clip QBA|36|Ammo
+Base.Clip_QBB95|Clip QBB95|36|Ammo
+Base.Clip_QBZ951|Clip QBZ951|36|Ammo
+Base.Clip_R5|Clip R5|36|Ammo
+Base.Clip_RPD|Clip RPD|36|Ammo
+Base.Clip_RPK|Clip RPK|36|Ammo
+Base.Clip_RPK12|Clip RPK12|36|Ammo
+Base.Clip_RPK16|Clip RPK16|36|Ammo
+Base.Clip_Ruger10_22|Clip Ruger10 22|36|Ammo
+Base.Clip_RugerLC|Clip Ruger LC|36|Ammo
+Base.Clip_SA58|Clip SA58|36|Ammo
+Base.Clip_SAR21|Clip SAR21|36|Ammo
+Base.Clip_SIG516|Clip SIG516|36|Ammo
+Base.Clip_SIG_553|Clip SIG 553|36|Ammo
+Base.Clip_SKS|Clip SKS|36|Ammo
+Base.Clip_SPAS15|Clip SPAS15|36|Ammo
+Base.Clip_SR1M|Clip SR1M|36|Ammo
+Base.Clip_SR338|Clip SR338|36|Ammo
+Base.Clip_SR3M|Clip SR3M|36|Ammo
+Base.Clip_SR47|Clip SR47|36|Ammo
+Base.Clip_SS2V5|Clip SS2V5|36|Ammo
+Base.Clip_SV98|Clip SV98|36|Ammo
+Base.Clip_SVD|Clip SVD|36|Ammo
+Base.Clip_SVD12|Clip SVD12|36|Ammo
+Base.Clip_SVDK|Clip SVDK|36|Ammo
+Base.Clip_SVDK_short|Clip SVDK short|36|Ammo
+Base.Clip_SVD_short|Clip SVD short|36|Ammo
+Base.Clip_SVT_40|Clip SVT 40|36|Ammo
+Base.Clip_SVU|Clip SVU|36|Ammo
+Base.Clip_Saiga12|Clip Saiga12|36|Ammo
+Base.Clip_Saiga9mm|Clip Saiga9mm|36|Ammo
+Base.Clip_Samurai_aw|Clip Samurai aw|36|Ammo
+Base.Clip_Samurai_kendo|Clip Samurai kendo|36|Ammo
+Base.Clip_ScarH|Clip Scar H|36|Ammo
+Base.Clip_ScarL|Clip Scar L|36|Ammo
+Base.Clip_Scout_elite|Clip Scout elite|36|Ammo
+Base.Clip_Silenced_Sten|Clip Silenced Sten|36|Ammo
+Base.Clip_Springfield_sniper|Clip Springfield sniper|36|Ammo
+Base.Clip_Sten_MK5|Clip Sten MK5|36|Ammo
+Base.Clip_TEC9|Clip TEC9|36|Ammo
+Base.Clip_TMP|Clip TMP|36|Ammo
+Base.Clip_Thompson|Clip Thompson|36|Ammo
+Base.Clip_Type81|Clip Type81|36|Ammo
+Base.Clip_Type88|Clip Type88|36|Ammo
+Base.Clip_UMP45|Clip UMP45|36|Ammo
+Base.Clip_UMP45_long|Clip UMP45 long|36|Ammo
+Base.Clip_USAS12|Clip USAS12|36|Ammo
+Base.Clip_USP45|Clip USP45|36|Ammo
+Base.Clip_UZI|Clip UZI|36|Ammo
+Base.Clip_VEPR|Clip VEPR|36|Ammo
+Base.Clip_VP70|Clip VP70|36|Ammo
+Base.Clip_VR80|Clip VR80|36|Ammo
+Base.Clip_VSK|Clip VSK|36|Ammo
+Base.Clip_VSS|Clip VSS|36|Ammo
+Base.Clip_VSSK|Clip VSSK|36|Ammo
+Base.Clip_VSS_Tactical|Clip VSS Tactical|36|Ammo
+Base.Clip_VZ58|Clip VZ58|36|Ammo
+Base.Clip_VZ61|Clip VZ61|36|Ammo
+Base.Clip_V_M87|Clip V M87|36|Ammo
+Base.Clip_ValmetM82|Clip Valmet M82|36|Ammo
+Base.Clip_Veresk|Clip Veresk|36|Ammo
+Base.Clip_VictorySW22|Clip Victory SW22|36|Ammo
+Base.Clip_WA2000|Clip WA2000|36|Ammo
+Base.Clip_Wieger940|Clip Wieger940|36|Ammo
+Base.Clip_Wildey|Clip Wildey|36|Ammo
+Base.Clip_X86|Clip X86|36|Ammo
+Base.Clip_XD|Clip XD|36|Ammo
+Base.Clip_XM8|Clip XM8|36|Ammo
+Base.Clip_pistol_shotgun|Clip pistol shotgun|36|Ammo
+Base.GrenadeAmmoBox|Grenade Ammo Box|16|Ammo
+Base.P90Clip|P90Clip|16|Ammo
+Base.RocketAmmoBox|Rocket Ammo Box|16|Ammo
+Base.ShotgunShells|Shotgun Shells|120|Ammo
+Base.ShotgunShellsBox|Shotgun Shells Box|120|Ammo
+Base.ShotgunShellsCarton|Shotgun Shells Carton|120|Ammo
+Base.arrow_carbon|arrow carbon|16|Ammo
+Base.arrow_carbon_floor|arrow carbon floor|16|Ammo
+Base.arrow_carbon_fly|arrow carbon fly|16|Ammo
+Base.arrow_carbon_pack|arrow carbon pack|16|Ammo
+Base.arrow_metal|arrow metal|16|Ammo
+Base.arrow_metal_floor|arrow metal floor|16|Ammo
+Base.arrow_metal_fly|arrow metal fly|16|Ammo
+Base.arrow_metal_pack|arrow metal pack|16|Ammo
+Base.arrow_wood|arrow wood|16|Ammo
+Base.arrow_wood_floor|arrow wood floor|16|Ammo
+Base.arrow_wood_fly|arrow wood fly|16|Ammo
+Base.arrow_wood_pack|arrow wood pack|16|Ammo
+Base.bolt_carbon|bolt carbon|16|Ammo
+Base.bolt_carbon_floor|bolt carbon floor|16|Ammo
+Base.bolt_carbon_fly|bolt carbon fly|16|Ammo
+Base.bolt_carbon_pack|bolt carbon pack|16|Ammo
+Base.bolt_metal|bolt metal|16|Ammo
+Base.bolt_metal_floor|bolt metal floor|16|Ammo
+Base.bolt_metal_fly|bolt metal fly|16|Ammo
+Base.bolt_metal_pack|bolt metal pack|16|Ammo
+Base.bolt_wood|bolt wood|16|Ammo
+Base.bolt_wood_floor|bolt wood floor|16|Ammo
+Base.bolt_wood_fly|bolt wood fly|16|Ammo
+Base.bolt_wood_pack|bolt wood pack|16|Ammo
+MarzGuns.12GMagazine20_AA12|12 Gauge AA-12 Drum 20Rds Magazine|16|Ammo
+MarzGuns.12GMagazine8_AA12|12 Gauge AA-12 8Rds Magazine|16|Ammo
+MarzGuns.12Gauge_Box_Buckshot|12 Gauge Buckshot Box|16|Ammo
+MarzGuns.12Gauge_Box_Slug|12 Gauge Slug Box|16|Ammo
+MarzGuns.12Gauge_Crate_Buckshot|Crate of 12 Gauge Buckshot Boxes|8|Ammo
+MarzGuns.12Gauge_Crate_Slug|Crate of 12 Gauge Slug Boxes|8|Ammo
+MarzGuns.12Gauge_Shell_Buckshot|12 Gauge Buckshot Shell|8|Ammo
+MarzGuns.12Gauge_Shell_Slug|12 Gauge Slug Shell|8|Ammo
+MarzGuns.223_Box|.223 Remington Box|16|Ammo
+MarzGuns.223_Bullet|.223 Remington Round|8|Ammo
+MarzGuns.223_Crate|Crate of .223 Remington Boxes|8|Ammo
+MarzGuns.3006Clip8|En Bloc 8Rds .30-06 Clip|8|Ammo
+MarzGuns.3006Magazine20_BAR|BAR 20Rds .30-06 Magazine|16|Ammo
+MarzGuns.3006_Box|.30-06 Springfield Box|16|Ammo
+MarzGuns.3006_Bullet|.30-06 Springfield Round|8|Ammo
+MarzGuns.3006_Crate|Crate of .30-06 Springfield Boxes|8|Ammo
+MarzGuns.3030_Box|.30-30 Box|16|Ammo
+MarzGuns.3030_Bullet|.30-30 Round|8|Ammo
+MarzGuns.3030_Crate|Crate of .30-30 Boxes|8|Ammo
+MarzGuns.308_Box|.308 Winchester Box|16|Ammo
+MarzGuns.308_Bullet|.308 Winchester Round|8|Ammo
+MarzGuns.308_Crate|Crate of .308 Winchester Boxes|8|Ammo
+MarzGuns.357SpeedLoader6_PYTHON|Python 6Rds .357 Magnum Speedloader|16|Ammo
+MarzGuns.357_Box|.357 Magnum Box|16|Ammo
+MarzGuns.357_Bullet|.357 Magnum Round|8|Ammo
+MarzGuns.357_Crate|Crate of .357 Magnum Boxes|8|Ammo
+MarzGuns.38_Box|.38 Special Box|16|Ammo
+MarzGuns.38_Bullet|.38 Special Round|8|Ammo
+MarzGuns.38_Crate|Crate of .38 Special Boxes|8|Ammo
+MarzGuns.40mm_Box_Buckshot|40mm Buckshot Box|16|Ammo
+MarzGuns.40mm_Box_HE|40mm High Explosive Box|16|Ammo
+MarzGuns.40mm_Box_Incendiary|40mm Incendiary Box|16|Ammo
+MarzGuns.40mm_Round_Buckshot|40mm Buckshot Round|8|Ammo
+MarzGuns.40mm_Round_HE|40mm High Explosive Round|8|Ammo
+MarzGuns.40mm_Round_Incendiary|40mm Incendiary Round|8|Ammo
+MarzGuns.44_Box|.44 Magnum Box|16|Ammo
+MarzGuns.44_Bullet|.44 Magnum Round|8|Ammo
+MarzGuns.44_Crate|Crate of .44 Magnum Boxes|8|Ammo
+MarzGuns.4570_Box|.45-70 Government Box|16|Ammo
+MarzGuns.4570_Bullet|.45-70 Government Round|8|Ammo
+MarzGuns.4570_Crate|Crate of .45-70 Government Boxes|8|Ammo
+MarzGuns.45Magazine100_THOMPSON|Thompson 100Rds .45 ACP Drum Magazine|16|Ammo
+MarzGuns.45Magazine12_USP|USP 12Rds .45 ACP Magazine|16|Ammo
+MarzGuns.45Magazine20_THOMPSON|Thompson 20Rds .45 ACP Magazine|16|Ammo
+MarzGuns.45Magazine20_USP|USP 20Rds .45 ACP Magazine|16|Ammo
+MarzGuns.45Magazine30_MAC10|MAC-10 30Rds .45 ACP Magazine|16|Ammo
+MarzGuns.45Magazine30_THOMPSON|Thompson 30Rds .45 ACP Magazine|16|Ammo
+MarzGuns.45Magazine40_MAC10|MAC-10 40Rds .45 ACP Extended Magazine|16|Ammo
+MarzGuns.45Magazine7_M1911|M1911 7Rds .45 ACP Magazine|16|Ammo
+MarzGuns.45_Box|.45 ACP Box|16|Ammo
+MarzGuns.45_Bullet|.45 ACP Round|8|Ammo
+MarzGuns.45_Crate|Crate of .45 ACP Boxes|8|Ammo
+MarzGuns.50Magazine12_DEAGLE|.50 AE 12Rds Magazine|16|Ammo
+MarzGuns.50Magazine8_DEAGLE|.50 AE 8Rds Magazine|16|Ammo
+MarzGuns.50_Box|.50 AE Box|16|Ammo
+MarzGuns.50_Bullet|.50 AE Round|8|Ammo
+MarzGuns.50_Crate|Crate of .50 AE Boxes|8|Ammo
+MarzGuns.545x39Magazine100_Drum|Drum 100Rds 5.45x39mm Magazine|16|Ammo
+MarzGuns.545x39Magazine30_Bakelite|Bakelite 30Rds 5.45x39mm Magazine|16|Ammo
+MarzGuns.545x39Magazine45_Bakelite|Bakelite 45Rds Extended 5.45x39mm Magazine|16|Ammo
+MarzGuns.545x39_Box|5.45x39mm Box|16|Ammo
+MarzGuns.545x39_Bullet|5.45x39mm Round|8|Ammo
+MarzGuns.545x39_Crate|Crate of 5.45x39mm Boxes|8|Ammo
+MarzGuns.556x45Magazine100_STANAG|STANAG 100Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine150_STANAG|STANAG 150Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine20_STANAG|STANAG 20Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine25_STANAG|STANAG 25Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine30_G36|G36 30Rds 5.56x45mm Translucent Magazine|16|Ammo
+MarzGuns.556x45Magazine30_STANAG|STANAG 30Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine50_STANAG|STANAG 50Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine60_STANAG|STANAG 60Rds Jungle-Style 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45Magazine75_STANAG|STANAG 75Rds 5.56x45mm Magazine|16|Ammo
+MarzGuns.556x45_Box|5.56x45mm Box|16|Ammo
+MarzGuns.556x45_Box_ArmorPiercing|5.56x45mm Armor Piercing Box|16|Ammo
+MarzGuns.556x45_Box_HollowPoint|5.56x45mm Hollow Point Box|16|Ammo
+MarzGuns.556x45_Box_Overpressured|5.56x45mm [+P] Box|16|Ammo
+MarzGuns.556x45_Box_Subsonic|5.56x45mm Subsonic Box|16|Ammo
+MarzGuns.556x45_Bullet|5.56x45mm Round|8|Ammo
+MarzGuns.556x45_Bullet_ArmorPiercing|5.56x45mm Armor Piercing Round|8|Ammo
+MarzGuns.556x45_Bullet_HollowPoint|5.56x45mm Hollow Point Round|8|Ammo
+MarzGuns.556x45_Bullet_Overpressured|5.56x45mm [+P] Round|8|Ammo
+MarzGuns.556x45_Bullet_Subsonic|5.56x45mm Subsonic Round|8|Ammo
+MarzGuns.556x45_Crate|Crate of 5.56x45mm Boxes|8|Ammo
+MarzGuns.556x45_Crate_ArmorPiercing|Crate of 5.56x45mm Armor Piercing Boxes|8|Ammo
+MarzGuns.556x45_Crate_HollowPoint|Crate of 5.56x45mm Hollow Point Boxes|8|Ammo
+MarzGuns.556x45_Crate_Overpressured|Crate of 5.56x45mm [+P] Boxes|8|Ammo
+MarzGuns.556x45_Crate_Subsonic|Crate of 5.56x45mm Subsonic Boxes|8|Ammo
+MarzGuns.762x39Magazine30|7.62x39mm 30Rds Magazine|16|Ammo
+MarzGuns.762x39Magazine75|7.62x39mm 75Rds Extended Magazine|16|Ammo
+MarzGuns.762x39_Box|7.62x39mm Box|16|Ammo
+MarzGuns.762x39_Bullet|7.62x39mm Round|8|Ammo
+MarzGuns.762x39_Crate|Crate of 7.62x39mm Boxes|8|Ammo
+MarzGuns.762x51Box100_M60|M60 100Rds 7.62x51mm Box|16|Ammo
+MarzGuns.762x51Magazine20_FAL|FAL 20Rds 7.62x51mm Magazine|16|Ammo
+MarzGuns.762x51Magazine20_G3|G3 20Rds 7.62x51mm Magazine|16|Ammo
+MarzGuns.762x51Magazine20_M14|M14 20Rds 7.62x51mm Magazine|16|Ammo
+MarzGuns.762x51Magazine5_M24|M24 5Rds 7.62x51mm Magazine|16|Ammo
+MarzGuns.762x51Magazine5_PSG1|PSG-1 5Rds 7.62x51mm Magazine|16|Ammo
+MarzGuns.762x51_Box|7.62x51mm Box|16|Ammo
+MarzGuns.762x51_Bullet|7.62x51mm Round|8|Ammo
+MarzGuns.762x51_Crate|Crate of 7.62x51mm Boxes|8|Ammo
+MarzGuns.762x54Magazine10_SVD|SVD 10Rds 7.62x54mm Magazine|16|Ammo
+MarzGuns.762x54StripperClip5_MOSIN|Mosin-Nagant 5Rds 7.62x54mm Stripper Clip|8|Ammo
+MarzGuns.762x54_Box|7.62x54mm Box|16|Ammo
+MarzGuns.762x54_Bullet|7.62x54mm Round|8|Ammo
+MarzGuns.762x54_Crate|Crate of 7.62x54mm Boxes|8|Ammo
+MarzGuns.9x19Magazine100_MP5|MP5 100Rds Drum 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine10_P226|P226 10Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine13_HIPOWER|Hi-Power 13Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine15_M92FS|M92FS 15Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine18_M93R|M93R 18Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine18_VP70M|VP70M 18Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine20_MP5|MP5 20Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine20_TEC9|TEC-9 20Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine25_MP5|MP5 25Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine30_M92FS|M92FS 30Rds 9x19mm Extended Magazine|16|Ammo
+MarzGuns.9x19Magazine30_MP5|MP5 30Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine30_VP70M|VP70M 30Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19Magazine50_M92FS|M92FS 50Rds 9x19mm Drum Magazine|16|Ammo
+MarzGuns.9x19Magazine60_M93R|M93R 60Rds 9x19mm Extended Magazine|16|Ammo
+MarzGuns.9x19Magazine60_MP5|MP5 Dual 30Rds 9x19mm Magazine|16|Ammo
+MarzGuns.9x19_Box|9x19mm Box|16|Ammo
+MarzGuns.9x19_Bullet|9x19mm Round|8|Ammo
+MarzGuns.9x19_Crate|Crate of 9x19mm Boxes|8|Ammo
+MarzGuns.9x39Magazine30|9x39mm 30Rds Magazine|16|Ammo
+MarzGuns.9x39_Box|9x39mm Box|16|Ammo
+MarzGuns.9x39_Bullet|9x39mm Round|8|Ammo
+MarzGuns.9x39_Crate|Crate of 9x39mm Boxes|8|Ammo
+
+# --- Weapon ACC ---
+Base.1P78|1P78|40|Weapon ACC
+Base.1PN93_4|1PN93 4|40|Weapon ACC
+Base.9x39_Silencer|9x39 Silencer|40|Weapon ACC
+Base.A2000_Silencer|A2000 Silencer|40|Weapon ACC
+Base.ACOGx4|ACOGx4|40|Weapon ACC
+Base.AK12_stock|AK12 stock|40|Weapon ACC
+Base.AK19_stock|AK19 stock|40|Weapon ACC
+Base.AK47_stock|AK47 stock|40|Weapon ACC
+Base.AK74_stock|AK74 stock|40|Weapon ACC
+Base.AK74u_stock|AK74u stock|40|Weapon ACC
+Base.AK9_stock|AK9 stock|40|Weapon ACC
+Base.AKHGtactical|AKHGtactical|40|Weapon ACC
+Base.AK_Wood_stock|AK Wood stock|40|Weapon ACC
+Base.AMD65_stock|AMD65 stock|40|Weapon ACC
+Base.AN94_stock|AN94 stock|40|Weapon ACC
+Base.ANPEQ_10|ANPEQ 10|40|Weapon ACC
+Base.ANPEQ_10_BEAM|ANPEQ 10 BEAM|40|Weapon ACC
+Base.ANPEQ_2|ANPEQ 2|40|Weapon ACC
+Base.ANPEQ_2_BEAM|ANPEQ 2 BEAM|40|Weapon ACC
+Base.AR10_stock|AR10 stock|40|Weapon ACC
+Base.AR15_handguard|AR15 handguard|40|Weapon ACC
+Base.AR15_stock|AR15 stock|40|Weapon ACC
+Base.AR_handguard|AR handguard|40|Weapon ACC
+Base.Acog_TA648|Acog TA648|40|Weapon ACC
+Base.Acog_ecos|Acog ecos|40|Weapon ACC
+Base.AkMount|Ak Mount|40|Weapon ACC
+Base.AngleGrip|Angle Grip|40|Weapon ACC
+Base.BaldrPro_BEAM|Baldr Pro BEAM|40|Weapon ACC
+Base.BallisticScope|Ballistic Scope|40|Weapon ACC
+Base.ChokeTubeFull|Choke Tube Full|40|Weapon ACC
+Base.ChokeTubeImproved|Choke Tube Improved|40|Weapon ACC
+Base.Cover2_Silencer|Cover2 Silencer|40|Weapon ACC
+Base.Cover3_Silencer|Cover3 Silencer|40|Weapon ACC
+Base.Cover4_Silencer|Cover4 Silencer|40|Weapon ACC
+Base.Cover_Silencer|Cover Silencer|40|Weapon ACC
+Base.DBAL_A2_BEAM|DBAL A2 BEAM|40|Weapon ACC
+Base.Dbal9021_BEAM|Dbal9021 BEAM|40|Weapon ACC
+Base.Dtkp_Hexagon_Silencer|Dtkp Hexagon Silencer|40|Weapon ACC
+Base.Dtkp_Silencer|Dtkp Silencer|40|Weapon ACC
+Base.EKP_kobra|EKP kobra|40|Weapon ACC
+Base.EKP_kobra_2x|EKP kobra 2x|40|Weapon ACC
+Base.Eotech|Eotech|40|Weapon ACC
+Base.Eotech_XPS3|Eotech XPS3|40|Weapon ACC
+Base.Eotech_vudu|Eotech vudu|40|Weapon ACC
+Base.Glock_tactical|Glock tactical|40|Weapon ACC
+Base.GripPod|Grip Pod|40|Weapon ACC
+Base.Grip_Surefire_blk|Grip Surefire blk|40|Weapon ACC
+Base.Grip_Surefire_tan|Grip Surefire tan|40|Weapon ACC
+Base.GunLight|Gun Light|40|Weapon ACC
+Base.Hexagon_12G_Suppressor|Hexagon 12G Suppressor|40|Weapon ACC
+Base.InsightLA5|Insight LA5|40|Weapon ACC
+Base.InsightLA5_BEAM|Insight LA5 BEAM|40|Weapon ACC
+Base.InsightWMX200|Insight WMX200|40|Weapon ACC
+Base.Kobra|Kobra|40|Weapon ACC
+Base.Kriss9mm_Silencer|Kriss9mm Silencer|40|Weapon ACC
+Base.Luty_stock|Luty stock|40|Weapon ACC
+Base.M1014_stock|M1014 stock|40|Weapon ACC
+Base.M16A2_handguard|M16A2 handguard|40|Weapon ACC
+Base.M16_handguard|M16 handguard|40|Weapon ACC
+Base.M16_stock|M16 stock|40|Weapon ACC
+Base.MP155_montecarlo_stock|MP155 montecarlo stock|40|Weapon ACC
+Base.MP18_plastic_stock|MP18 plastic stock|40|Weapon ACC
+Base.Mosin_Mount|Mosin Mount|40|Weapon ACC
+Base.Mosin_Wood_short_stock|Mosin Wood short stock|40|Weapon ACC
+Base.Mosin_Wood_stock|Mosin Wood stock|40|Weapon ACC
+Base.Mosin_carlo_stock|Mosin carlo stock|40|Weapon ACC
+Base.Mossberg_grip|Mossberg grip|40|Weapon ACC
+Base.NST_Silencer|NST Silencer|40|Weapon ACC
+Base.Ncstar_laser|Ncstar laser|40|Weapon ACC
+Base.Ncstar_laser_BEAM|Ncstar laser BEAM|40|Weapon ACC
+Base.OKP7|OKP7|40|Weapon ACC
+Base.OTS_33_pistol_stock|OTS 33 pistol stock|40|Weapon ACC
+Base.OilFilter_Silencer|Oil Filter Silencer|40|Weapon ACC
+Base.Osprey_Silencer|Osprey Silencer|40|Weapon ACC
+Base.PBS1_Silencer|PBS1 Silencer|40|Weapon ACC
+Base.PBS4_Silencer|PBS4 Silencer|40|Weapon ACC
+Base.PEQ15|PEQ15|40|Weapon ACC
+Base.PEQ15_BEAM|PEQ15 BEAM|40|Weapon ACC
+Base.PP93_Silencer|PP93 Silencer|40|Weapon ACC
+Base.PistolScope|Pistol Scope|40|Weapon ACC
+Base.PotatoGrip|Potato Grip|40|Weapon ACC
+Base.R870_Tactical_Grip|R870 Tactical Grip|40|Weapon ACC
+Base.R870_Tactical_Grip_short|R870 Tactical Grip short|40|Weapon ACC
+Base.R870_Wood_Grip|R870 Wood Grip|40|Weapon ACC
+Base.R870_Wood_stock|R870 Wood stock|40|Weapon ACC
+Base.R870_grip|R870 grip|40|Weapon ACC
+Base.R870_magpul_stock|R870 magpul stock|40|Weapon ACC
+Base.R870_sps_stock|R870 sps stock|40|Weapon ACC
+Base.RB7M_Mount|RB7M Mount|40|Weapon ACC
+Base.SMG_Silencer|SMG Silencer|40|Weapon ACC
+Base.Saiga9_Silencer|Saiga9 Silencer|40|Weapon ACC
+Base.Salvo_12G_Suppressor|Salvo 12G Suppressor|40|Weapon ACC
+Base.Scar_pdw_stock|Scar pdw stock|40|Weapon ACC
+Base.Scar_ssr_stock|Scar ssr stock|40|Weapon ACC
+Base.Scar_stock|Scar stock|40|Weapon ACC
+Base.Scrap_Silencer|Scrap Silencer|40|Weapon ACC
+Base.SodaCan_Silencer|Soda Can Silencer|40|Weapon ACC
+Base.SprayCan_Silencer|Spray Can Silencer|40|Weapon ACC
+Base.Springfield_longrange_scope|Springfield longrange scope|40|Weapon ACC
+Base.Suppx_Silencer|Suppx Silencer|40|Weapon ACC
+Base.SurefireX400|Surefire X400|40|Weapon ACC
+Base.SurefireX400_BEAM|Surefire X400 BEAM|40|Weapon ACC
+Base.Surefire_M925|Surefire M925|40|Weapon ACC
+Base.Surefire_light|Surefire light|40|Weapon ACC
+Base.TGP_Silencer|TGP Silencer|40|Weapon ACC
+Base.TMP_Silencer|TMP Silencer|40|Weapon ACC
+Base.TritiumSights|Tritium Sights|40|Weapon ACC
+Base.Type81_stock|Type81 stock|40|Weapon ACC
+Base.UniversalMount|Universal Mount|40|Weapon ACC
+Base.VP70_pistol_stock|VP70 pistol stock|40|Weapon ACC
+Base.VSS_Tactical|VSS Tactical|40|Weapon ACC
+Base.VSS_stock_Tactical|VSS stock Tactical|40|Weapon ACC
+Base.VZ58_stock|VZ58 stock|40|Weapon ACC
+Base.Wieger940_stock|Wieger940 stock|40|Weapon ACC
+Base.Zenit2P|Zenit2P|40|Weapon ACC
+Base.aek_Silencer|aek Silencer|40|Weapon ACC
+Base.ak_hg_545_design|ak hg 545 design|40|Weapon ACC
+Base.ak_hg_cnc|ak hg cnc|40|Weapon ACC
+Base.ak_hg_cugir|ak hg cugir|40|Weapon ACC
+Base.ak_hg_hexagon|ak hg hexagon|40|Weapon ACC
+Base.ak_hg_krebs|ak hg krebs|40|Weapon ACC
+Base.ak_hg_magpul_moe|ak hg magpul moe|40|Weapon ACC
+Base.ak_hg_magpul_zhukov|ak hg magpul zhukov|40|Weapon ACC
+Base.ak_hg_quad|ak hg quad|40|Weapon ACC
+Base.ak_hg_rail|ak hg rail|40|Weapon ACC
+Base.ak_hg_std|ak hg std|40|Weapon ACC
+Base.ak_hg_vltor|ak hg vltor|40|Weapon ACC
+Base.ak_mount_kobra|ak mount kobra|40|Weapon ACC
+Base.ak_mount_sag|ak mount sag|40|Weapon ACC
+Base.ak_mount_vpo|ak mount vpo|40|Weapon ACC
+Base.ak_mount_xd_rgl|ak mount xd rgl|40|Weapon ACC
+Base.ak_stock_zenit_magpul|ak stock zenit magpul|40|Weapon ACC
+Base.ak_stock_zenit_pt_1|ak stock zenit pt 1|40|Weapon ACC
+Base.ak_stock_zenit_pt_3|ak stock zenit pt 3|40|Weapon ACC
+Base.aks74_stock|aks74 stock|40|Weapon ACC
+Base.ar10_hg_cmmg_mk3_rml15|ar10 hg cmmg mk3 rml15|40|Weapon ACC
+Base.ar10_hg_cmmg_mk3_rml9|ar10 hg cmmg mk3 rml9|40|Weapon ACC
+Base.ar10_hg_kac_urx4_14|ar10 hg kac urx4 14|40|Weapon ACC
+Base.ar10_hg_lancer_12|ar10 hg lancer 12|40|Weapon ACC
+Base.ar10_hg_noveske_quadrail|ar10 hg noveske quadrail|40|Weapon ACC
+Base.ar15_adar_stock|ar15 adar stock|40|Weapon ACC
+Base.ar15_armacon_stock|ar15 armacon stock|40|Weapon ACC
+Base.ar15_b5_stock|ar15 b5 stock|40|Weapon ACC
+Base.ar15_doublestar_stock|ar15 doublestar stock|40|Weapon ACC
+Base.ar15_f93_stock|ar15 f93 stock|40|Weapon ACC
+Base.ar15_fab_defense_16s_stock|ar15 fab defense 16s stock|40|Weapon ACC
+Base.ar15_fab_defense_core_stock|ar15 fab defense core stock|40|Weapon ACC
+Base.ar15_fab_defense_shock_stock|ar15 fab defense shock stock|40|Weapon ACC
+Base.ar15_hg_adar_wood|ar15 hg adar wood|40|Weapon ACC
+Base.ar15_hg_aeroknox_10|ar15 hg aeroknox 10|40|Weapon ACC
+Base.ar15_hg_aeroknox_15|ar15 hg aeroknox 15|40|Weapon ACC
+Base.ar15_hg_alexander|ar15 hg alexander|40|Weapon ACC
+Base.ar15_hg_geissele_13|ar15 hg geissele 13|40|Weapon ACC
+Base.ar15_hg_geissele_9|ar15 hg geissele 9|40|Weapon ACC
+Base.ar15_hg_lone_star_16|ar15 hg lone star 16|40|Weapon ACC
+Base.ar15_hg_lvoa_c|ar15 hg lvoa c|40|Weapon ACC
+Base.ar15_hg_lvoa_s|ar15 hg lvoa s|40|Weapon ACC
+Base.ar15_hg_magpul_carabine|ar15 hg magpul carabine|40|Weapon ACC
+Base.ar15_hg_magpul_moe|ar15 hg magpul moe|40|Weapon ACC
+Base.ar15_hg_reflex_carbon|ar15 hg reflex carbon|40|Weapon ACC
+Base.ar15_hg_ris_fsp_9|ar15 hg ris fsp 9|40|Weapon ACC
+Base.ar15_hg_rsass|ar15 hg rsass|40|Weapon ACC
+Base.ar15_hg_stngr_vypr_10|ar15 hg stngr vypr 10|40|Weapon ACC
+Base.ar15_high_standart_stock|ar15 high standart stock|40|Weapon ACC
+Base.ar15_lmt_sopmod_stock|ar15 lmt sopmod stock|40|Weapon ACC
+Base.ar15_magpul_gen2_fde_stock|ar15 magpul gen2 fde stock|40|Weapon ACC
+Base.ar15_magpul_gen2_stock|ar15 magpul gen2 stock|40|Weapon ACC
+Base.ar15_magpul_gen3_stock|ar15 magpul gen3 stock|40|Weapon ACC
+Base.ar15_magpul_prs_gen2_fde_stock|ar15 magpul prs gen2 fde stock|40|Weapon ACC
+Base.ar15_mft_stock|ar15 mft stock|40|Weapon ACC
+Base.ar15_ripstock_stock|ar15 ripstock stock|40|Weapon ACC
+Base.ar15_sba3_stock|ar15 sba3 stock|40|Weapon ACC
+Base.ar15_viper_mod1_stock|ar15 viper mod1 stock|40|Weapon ACC
+Base.ar15_viper_pdw_stock|ar15 viper pdw stock|40|Weapon ACC
+Base.ar15_vltor_emod_stock|ar15 vltor emod stock|40|Weapon ACC
+Base.bipod_harris|bipod harris|40|Weapon ACC
+Base.bipod_harris_open|bipod harris open|40|Weapon ACC
+Base.bipod_old|bipod old|40|Weapon ACC
+Base.bipod_old_open|bipod old open|40|Weapon ACC
+Base.bipod_simple|bipod simple|40|Weapon ACC
+Base.bipod_simple_open|bipod simple open|40|Weapon ACC
+Base.cobra_tactical|cobra tactical|40|Weapon ACC
+Base.kac_vertical_grip|kac vertical grip|40|Weapon ACC
+Base.keymod_sig_vertical|keymod sig vertical|40|Weapon ACC
+Base.keymod_vertical|keymod vertical|40|Weapon ACC
+Base.m16_hg_launcher|m16 hg launcher|1200|Weapon ACC
+Base.m_lok_magpul|m lok magpul|40|Weapon ACC
+Base.magpul_afg|magpul afg|40|Weapon ACC
+Base.magpul_rvg|magpul rvg|40|Weapon ACC
+Base.mount_rail|mount rail|40|Weapon ACC
+Base.scrap_bipod|scrap bipod|40|Weapon ACC
+Base.scrap_bipod_open|scrap bipod open|40|Weapon ACC
+Base.scrap_grip_drill|scrap grip drill|40|Weapon ACC
+Base.scrap_grip_screwdriver|scrap grip screwdriver|40|Weapon ACC
+Base.scrap_mount|scrap mount|40|Weapon ACC
+Base.scrap_mount_shotgun|scrap mount shotgun|40|Weapon ACC
+Base.scrap_pipe_suppressor|scrap pipe suppressor|40|Weapon ACC
+Base.scrap_stock|scrap stock|40|Weapon ACC
+Base.stock_pistol_fab|stock pistol fab|40|Weapon ACC
+Base.svd_handguard_xrs_drg|svd handguard xrs drg|40|Weapon ACC
+Base.svd_hg_plastic|svd hg plastic|40|Weapon ACC
+Base.svd_hg_wood|svd hg wood|40|Weapon ACC
+Base.tactical_Quiver|tactical Quiver|40|Weapon ACC
+Base.tactical_Quiver_woodland|tactical Quiver woodland|40|Weapon ACC
+Base.win_1886_hg_wood|win 1886 hg wood|40|Weapon ACC
+Base.win_1895_stock|win 1895 stock|40|Weapon ACC
+Base.win_SWM1854_hg_wood|win SWM1854 hg wood|40|Weapon ACC
+Base.win_archangel_handguard|win archangel handguard|40|Weapon ACC
+Base.win_archangel_stock|win archangel stock|40|Weapon ACC
+Base.win_m1887_grip|win m1887 grip|40|Weapon ACC
+Base.win_m1887_stock|win m1887 stock|40|Weapon ACC
+Base.win_mts_stock|win mts stock|40|Weapon ACC
+Base.win_sjorgen_stock|win sjorgen stock|40|Weapon ACC
+Base.win_swm1894_handguard|win swm1894 handguard|40|Weapon ACC
+Base.win_swm1894_stock|win swm1894 stock|40|Weapon ACC
+Base.x2Scope|x2Scope|40|Weapon ACC
+Base.x4Scope|x4Scope|40|Weapon ACC
+Base.x8Scope|x8Scope|40|Weapon ACC
+Base.zenit_b25u|zenit b25u|40|Weapon ACC
+Base.zenit_rk6|zenit rk6|40|Weapon ACC
+Base.zenit_rk_1|zenit rk 1|40|Weapon ACC
+Base.zenit_rk_5|zenit rk 5|40|Weapon ACC
+MarzGuns.45_Muzzle_Mount_Device|.45 ACP Family Muzzle Mounting Device|40|Weapon ACC
+MarzGuns.AKS74U_Integrated_Stock_Deployed|AKS-74U Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.AKS74U_Integrated_Stock_Folded|AKS-74U Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.AK_Mount|AK Mounting Rail|40|Weapon ACC
+MarzGuns.AK_Muzzle_Mount_Device|AK Family Muzzle Mounting Device|40|Weapon ACC
+MarzGuns.AR_Muzzle_Mount_Device|AR Family Muzzle Mounting Device|40|Weapon ACC
+MarzGuns.ASVAL_Integrated_Stock_Deployed|AS VAL Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.ASVAL_Integrated_Stock_Folded|AS VAL Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.AimRight_Laser|AimRight Laser|40|Weapon ACC
+MarzGuns.Aimpoint_Sight|Aimpoint Sight|40|Weapon ACC
+MarzGuns.BAR_Integrated_Bipod_Deployed|BAR Integrated Bipod (Deployed)|40|Weapon ACC
+MarzGuns.BAR_Integrated_Bipod_Folded|BAR Integrated Bipod (Folded)|40|Weapon ACC
+MarzGuns.Barrel_Close|Barrel Close|40|Weapon ACC
+MarzGuns.Barrel_Open|Barrel Open|40|Weapon ACC
+MarzGuns.Beretta_Mount|Beretta Mounting Rail|40|Weapon ACC
+MarzGuns.Beretta_Stock_Deployed|Beretta Stock (Deployed)|40|Weapon ACC
+MarzGuns.Beretta_Stock_Folded|Beretta Stock (Folded)|40|Weapon ACC
+MarzGuns.Bipod_Deployed|Bipod (Deployed)|40|Weapon ACC
+MarzGuns.Bipod_Folded|Bipod (Folded)|40|Weapon ACC
+MarzGuns.Bolt_Fired|Fired Bolt|40|Weapon ACC
+MarzGuns.Bolt_Lock|Locked Bolt|40|Weapon ACC
+MarzGuns.Booster_Scope|Booster Scope|70|Weapon ACC
+MarzGuns.Booster_Scope_Off|Booster Scope (Off)|70|Weapon ACC
+MarzGuns.BrightPoint-5_Light|BrightPoint-5 Light|40|Weapon ACC
+MarzGuns.CAR15_Integrated_Stock_Deployed|CAR-15 Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.CAR15_Integrated_Stock_Folded|CAR-15 Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.Colt_Mount|Colt Mounting Rail|40|Weapon ACC
+MarzGuns.EXPS1_Sight|EXPS1 Sight|40|Weapon ACC
+MarzGuns.EXPS3_Sight|EXPS3 Sight|40|Weapon ACC
+MarzGuns.ElcanX2_Scope|Elcan X2 Scope|70|Weapon ACC
+MarzGuns.FNC_Integrated_Bipod_Deployed|FNC Integrated Bipod Deployed|40|Weapon ACC
+MarzGuns.FNC_Integrated_Bipod_Folded|FNC Integrated Bipod Folded|40|Weapon ACC
+MarzGuns.FNC_Integrated_Stock_Deployed|FN FNC Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.FNC_Integrated_Stock_Folded|FN FNC Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.G36C_Integrated_Rail_Down|G36C Integrated Rail (Down)|40|Weapon ACC
+MarzGuns.G36C_Integrated_Rail_Up|G36C Integrated Rail (Up)|40|Weapon ACC
+MarzGuns.G36C_Integrated_Stock_Deployed|G36C Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.G36C_Integrated_Stock_Folded|G36C Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.G36_Integrated_Stock_Deployed|G36 Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.G36_Integrated_Stock_Folded|G36 Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.Heavy_Pistol_Rail|Heavy Pistol Mounting Rail|40|Weapon ACC
+MarzGuns.JS14_Sight|JS14 Sight|40|Weapon ACC
+MarzGuns.K98_Bayonet_Attachment|Karabiner 98k Bayonet (Attached)|40|Weapon ACC
+MarzGuns.Kobra_Sight|Kobra Sight|40|Weapon ACC
+MarzGuns.LP_Light|LP Tactical Light|40|Weapon ACC
+MarzGuns.LR10X_Scope|LR10X Scope|70|Weapon ACC
+MarzGuns.LR2_Compensator|LR2 Compensator|40|Weapon ACC
+MarzGuns.LR4X_Scope|LR4X Scope|70|Weapon ACC
+MarzGuns.LRX-7_Laser|LRX-7 Laser|40|Weapon ACC
+MarzGuns.LRX12X_Scope|LRX12X Scope|70|Weapon ACC
+MarzGuns.LX_Flashhider|LX Flashhider|40|Weapon ACC
+MarzGuns.Lever_Fired|Fired Lever|40|Weapon ACC
+MarzGuns.Lever_Lock|Locked Lever|40|Weapon ACC
+MarzGuns.M&P_Suppressor|M&P Suppressor (9mm Pistols)|40|Weapon ACC
+MarzGuns.M16A2_M203_Integrated|M203 Integrated Grenade Launcher|40|Weapon ACC
+MarzGuns.M203|M203 Grenade Launcher|40|Weapon ACC
+MarzGuns.M24_Integrated_Bipod_Deployed|M24 Integrated Bipod (Deployed)|40|Weapon ACC
+MarzGuns.M24_Integrated_Bipod_Folded|M24 Integrated Bipod (Folded)|40|Weapon ACC
+MarzGuns.M4A1_Integrated_Stock_Deployed|M4A1 Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.M4A1_Integrated_Stock_Folded|M4A1 Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.M4_Integrated_Rail_Down|M4 Integrated Rail (Down)|40|Weapon ACC
+MarzGuns.M4_Integrated_Rail_Left|M4 Integrated Rail (Left)|40|Weapon ACC
+MarzGuns.M4_Integrated_Rail_Right|M4 Integrated Rail (Right)|40|Weapon ACC
+MarzGuns.M4_Integrated_Rail_Up|M4 Integrated Rail (Up)|40|Weapon ACC
+MarzGuns.M5_Bayonet_Attachment|M5 Bayonet (Attached)|40|Weapon ACC
+MarzGuns.M60_Integrated_Bipod_Deployed|M60 Integrated Bipod (Deployed)|40|Weapon ACC
+MarzGuns.M60_Integrated_Bipod_Folded|M60 Integrated Bipod (Folded)|40|Weapon ACC
+MarzGuns.M9_Bayonet_Attachment|M9 Bayonet (Attached)|40|Weapon ACC
+MarzGuns.MAC10_Integrated_Stock_Deployed|MAC10 Integrated Stock Deployed|40|Weapon ACC
+MarzGuns.MAC10_Integrated_Stock_Folded|MAC10 Integrated Stock Folded|40|Weapon ACC
+MarzGuns.MASTERKEY|Masterkey Underbarrel Shotgun|40|Weapon ACC
+MarzGuns.MASTERKEY_Weapon|MASTERKEY Weapon|40|Weapon ACC
+MarzGuns.MK2_Foregrip|MK2 Foregrip|40|Weapon ACC
+MarzGuns.MKC_Foregrip|MKC Foregrip|40|Weapon ACC
+MarzGuns.MKI_Suppressor|MKI Suppressor (5.56mm Rifles)|40|Weapon ACC
+MarzGuns.MP5SD_Integrated_Stock_Deployed|MP5SD Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.MP5SD_Integrated_Stock_Folded|MP5SD Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.MP5_Integrated_Stock_Deployed|MP5 Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.MP5_Integrated_Stock_Folded|MP5 Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.NDR_Suppressor|NDR Suppressor (5.56mm Rifles)|40|Weapon ACC
+MarzGuns.OKP3_Sight|OKP3 Sight|40|Weapon ACC
+MarzGuns.P45_Suppressor|P45 Suppressor (.45 ACP Weapons)|40|Weapon ACC
+MarzGuns.PBS-1_Suppressor|PBS-1 Suppressor (AK Rifles)|40|Weapon ACC
+MarzGuns.PJ-3_Laser|PJ-3 Laser|40|Weapon ACC
+MarzGuns.PL4_Sight|PL-4 Sight|40|Weapon ACC
+MarzGuns.PM2_Sight|PM-2 Sight|40|Weapon ACC
+MarzGuns.PRL1_Scope|PRL-1 Sight|70|Weapon ACC
+MarzGuns.PS1_Sight|PS1 Sight|40|Weapon ACC
+MarzGuns.PSO1_Scope|PSO1 Scope|70|Weapon ACC
+MarzGuns.PX1_Laser|PX1 Laser|40|Weapon ACC
+MarzGuns.Picatinny_Rail|Picatinny Rail|40|Weapon ACC
+MarzGuns.Picatinny_Rail_Down|Picatinny Rail (Down)|40|Weapon ACC
+MarzGuns.Picatinny_Rail_Left|Picatinny Rail (Left)|40|Weapon ACC
+MarzGuns.Picatinny_Rail_Right|Picatinny Rail (Right)|40|Weapon ACC
+MarzGuns.Picatinny_Rail_Up|Picatinny Rail (Up)|40|Weapon ACC
+MarzGuns.Pistol_Muzzle_Mount_Device|Pistol Family Muzzle Mounting Device|40|Weapon ACC
+MarzGuns.Pump_Fired|Fired Pump|40|Weapon ACC
+MarzGuns.Pump_Lock|Locked Pump|40|Weapon ACC
+MarzGuns.ReflexS2_Sight|Reflex S2 Sight|40|Weapon ACC
+MarzGuns.SKS_Bayonet_Deployed|SKS Bayonet (Deployed)|40|Weapon ACC
+MarzGuns.SKS_Bayonet_Folded|SKS Bayonet (Folded)|40|Weapon ACC
+MarzGuns.SPAS12_Integrated_Stock_Deployed|SPAS-12 Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.SPAS12_Integrated_Stock_Folded|SPAS-12 Integrated Stock (Folded)|40|Weapon ACC
+MarzGuns.SR7_Light|SR7 Tactical Light|40|Weapon ACC
+MarzGuns.Shellholder|Shellholder|40|Weapon ACC
+MarzGuns.Shh9_Suppressor|Shh9 Suppressor (9mm Pistols)|40|Weapon ACC
+MarzGuns.Slide_Fired|Fired Slide|40|Weapon ACC
+MarzGuns.Slide_Lock|Locked Slide|40|Weapon ACC
+MarzGuns.Sniper_Mount|Sniper Mounting Rail|40|Weapon ACC
+MarzGuns.Stub_Foregrip|Stub Foregrip|40|Weapon ACC
+MarzGuns.TA28_Scope|TA28 Scope|70|Weapon ACC
+MarzGuns.TL_Light|TL Tactical Light|40|Weapon ACC
+MarzGuns.TR-1_Laser|TR-1 Laser|40|Weapon ACC
+MarzGuns.TR06X_Scope|TR06X Scope|70|Weapon ACC
+MarzGuns.Trix42_Muzzlebreak|Trix42 Muzzlebreak|40|Weapon ACC
+MarzGuns.VP70M_Stock|VP70M Stock|40|Weapon ACC
+MarzGuns.XM177_Integrated_Stock_Deployed|XM177 Integrated Stock (Deployed)|40|Weapon ACC
+MarzGuns.XM177_Integrated_Stock_Folded|XM177 Integrated Stock (Folded)|40|Weapon ACC
+
+# --- Food ---
+Base.Bacon|Bacon|10|Food
+Base.BouillonCube|Bouillon Cube|10|Food
+Base.Bread|Bread|10|Food
+Base.Butter|Butter|10|Food
+Base.Cheese|Cheese|10|Food
+Base.DryRamenNoodles|Dry Ramen Noodles|10|Food
+Base.Egg|Egg|10|Food
+Base.Flour|Flour|10|Food
+Base.Jam|Jam|10|Food
+Base.Lettuce|Lettuce|10|Food
+Base.Mayo|Mayonnaise|10|Food
+Base.Milk|Milk|10|Food
+Base.Oil|Cooking Oil|10|Food
+Base.Pasta|Pasta|10|Food
+Base.PeanutButter|Peanut Butter|10|Food
+Base.Potato|Potato|10|Food
+Base.Rice|Rice|10|Food
+Base.Rum|Rum|10|Food
+Base.Salt|Salt|10|Food
+Base.Sugar|Sugar|10|Food
+Base.TinnedBeans|Canned Beans|14|Food
+Base.Tomato|Tomato|10|Food
+Base.Vodka|Vodka|10|Food
+Base.Whiskey|Bottle of Whiskey|10|Food
+Base.WineAged|Bottle of Fine Red Wine|6|Food
+
+# --- Tools ---
+Base.Axe|Axe|24|Tools
+Base.BoltCutters|Bolt Cutters|340|Tools
+Base.CopperIngot|Copper Ingot|200|Tools
+Base.Crowbar|Crowbar|16|Tools
+Base.DuctTape|Duct Tape|40|Tools
+Base.ElectronicsMags4|Magazine How To Use Generator|17|Tools
+Base.GoldBar|Gold Bar|1000|Tools
+Base.GunAttParts|Gun Att Parts|30|Tools
+Base.GunCleaningTools|Gun Cleaning Tools|30|Tools
+Base.GunToolsKit|Gun Tools Kit|30|Tools
+Base.Hammer|Hammer|10|Tools
+Base.NutsBolts|Nuts and Bolts|4|Tools
+Base.PipeWrench|Pipe Wrench|12|Tools
+Base.PropaneTank|Propane Tank|30|Tools
+Base.Saw|Saw|8|Tools
+Base.SilverBar|Silver Bar|700|Tools
+Base.Sledgehammer|Sledgehammer|340|Tools
+Base.SmallGoldBar|Small Gold Bar|500|Tools
+Base.SmallSilverBar|Small Silver Bar|350|Tools
+
+# --- Medical ---
+Base.AlcoholBandage|Sterilized Bandage|8|Medical
+Base.AlcoholWipes|Alcohol Wipes|16|Medical
+Base.Antibiotics|Antibiotics|24|Medical
+Base.Bandage|Bandage|5|Medical
+Base.GasmaskFilter|Gas Mask Filter|15|Medical
+Base.GasmaskFilterCrafted|Gas Mask Filter - Crafted|10|Medical
+Base.Hat_GasMask|Gas Mask|40|Medical
+Base.Hat_ImprovisedGasMask|Improvised Gas Mask|25|Medical
+Base.Pills|Painkillers|6|Medical
+Base.PillsAntiDep|Pills Anti Dep|7|Medical
+Base.PillsBeta|Beta Blockers|16|Medical
+Base.RespiratorFilters|Respirator Filters|10|Medical
+Base.Splint|Splint|9|Medical
+Base.SutureNeedle|Suture Needle|16|Medical
+Base.SutureNeedleHolder|Forceps|16|Medical
+
+# --- Vehicle Parts ---
+Base.BigGasTank1|Gas Tank - Big (Standard)|300|Vehicle Parts
+Base.BigGasTank2|Gas Tank - Big (Heavy-Duty Vehicle)|300|Vehicle Parts
+Base.BigGasTank3|Gas Tank - Big (Sports Vehicle)|300|Vehicle Parts
+Base.CarBattery1|Car Battery (Standard Vehicle)|36|Vehicle Parts
+Base.CarBattery2|Car Battery (Heavy-Duty Vehicle)|90|Vehicle Parts
+Base.CarBattery3|Car Battery (Sports Vehicle)|50|Vehicle Parts
+Base.EngineParts|Spare Engine Parts|10|Vehicle Parts
+Base.JerryCan|Emergency 20L of Gas|60|Vehicle Parts
+Base.Windshield1|Windshield (Standard)|50|Vehicle Parts
+Base.Windshield2|Windshield (Heavy-Duty Vehicle)|50|Vehicle Parts
+Base.Windshield3|Windshield (Sports Vehicle)|50|Vehicle Parts
+
+# --- Armor ---
+Base.Codpiece_Metal|Metal Codpiece|160|Armor
+Base.Cuirass_Metal|Metal Body Armor|200|Armor
+Base.Gloves_MetalArmour|Fingerless Gloves - Metal|100|Armor
+Base.VambraceSpike_Left|Spiked Metal Forearm Armor|140|Armor
+Base.VambraceSpike_Right|Spiked Metal Forearm Armor|140|Armor
+
+# --- Clothes ---
+Base.Earring_Stud_Gold|Earring Stud Gold|20|Clothes
+Base.Earring_Stud_Silver|Earring Stud Silver|14|Clothes
+Base.Glasses_Normal|Glasses|5|Clothes
+Base.Hat_BaseballCap|Baseball Cap|4|Clothes
+Base.Jacket_Black|Jacket|16|Clothes
+Base.NecklaceLong_Gold|Long Gold Necklace|45|Clothes
+Base.NecklaceLong_GoldDiamond|Long Gold Necklace Diamond|50|Clothes
+Base.NecklaceLong_Silver|Long Silver Necklace|30|Clothes
+Base.NecklaceLong_SilverDiamond|Long Silver Necklace Diamond|35|Clothes
+Base.NecklaceLong_SilverEmerald|Long Silver Necklace Diamond Emerald|25|Clothes
+Base.NecklaceLong_SilverSapphire|Long Silver Necklace Diamond Sapphire|20|Clothes
+Base.Necklace_Gold|Gold Necklace|30|Clothes
+Base.Necklace_GoldDiamond|Gold Necklace Diamond|40|Clothes
+Base.Necklace_GoldRuby|Gold Necklace Ruby|35|Clothes
+Base.Necklace_Silver|Silver Necklace|20|Clothes
+Base.Necklace_SilverDiamond|Silver Necklace Diamond|30|Clothes
+Base.Necklace_SilverSapphire|Silver Necklace Sapphire|25|Clothes
+Base.NoseRing_Gold|Gold Nosering|20|Clothes
+Base.NoseRing_Silver|Silver Nosering|15|Clothes
+Base.Shirt_Default|Shirt|6|Clothes
+Base.Shoes_TrainerTINT|Trainers|8|Clothes
+Base.Socks_Ankle|Socks|3|Clothes
+Base.Trousers_Default|Trousers|7|Clothes
+Base.Tshirt_Default|T-Shirt|5|Clothes
+Base.Vest_Default|Vest|10|Clothes
+Base.WristWatch_Left_ClassicGold|WristWatch Gold (Left)|80|Clothes
+Base.WristWatch_Left_Expensive|WristWatch Gold Luthex (Left)|100|Clothes
+Base.WristWatch_Right_ClassicGold|WristWatch Gold (Right)|80|Clothes
+Base.WristWatch_Right_Expensive|WristWatch Gold Luthex (Right)|100|Clothes

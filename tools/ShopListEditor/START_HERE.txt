@@ -1,0 +1,94 @@
+================================================================================
+  IKappaID Phone Shop — LIST EDITOR
+  For server admins and modders (Windows)
+  Download: GitHub Releases (not on Steam Workshop — .bat blocked by uploader)
+================================================================================
+
+This folder is NOT loaded by the game. Only 42/media/ and Lua are used in-game.
+
+REQUIREMENTS
+  • Windows 10/11
+  • Python 3.10+ from https://www.python.org/downloads/
+    (check "Add python to PATH" during install)
+
+QUICK START
+  1. Double-click  run.bat   (or:  python launch.py)
+  2. First run installs customtkinter (one time, needs internet)
+  3. Phone Shop folder is auto-detected (this mod's phoneshop folder)
+  4. Click  Save vanilla baseline  once while lists are still good
+  5. Set  Source mod folder  to a gun/item mod (e.g. Guns of Marz)
+  6. Click  Scan mod
+  7. Double-click rows to include/exclude, edit prices
+  8. Click  WRITE BUY + SELL LISTS  (orange bar at bottom)
+  9. Restart game or dedicated server
+
+================================================================================
+WHERE LISTS LIVE (in this mod package)
+================================================================================
+
+  ..\Contents\mods\IKappaID_PhoneShop\42\media\phoneshop\
+
+  buy_list.txt      what players can buy
+  sell_list.txt     what players can sell
+  vehicle_list.txt  pink-slip vehicles (optional)
+  costume_list.txt  costumes (optional)
+  currency_list.txt cash / jewelry accepted as payment
+
+Line format (buy / sell):
+  itemType|label|price|category
+
+Example:
+  Base.Axe|Axe|15|Tools
+  MarzGuns.AK47|AK-47|1200|Weapons
+
+Categories (spelling matters):
+  Weapons, Ammo, Weapon ACC, Food, Tools, Medical, Vehicle Parts,
+  Vehicles, Costume, Armor, Clothes
+
+================================================================================
+ADDING ITEMS FROM ANOTHER MOD
+================================================================================
+
+  1. Source mod folder = that mod's root (folder with mod.info)
+  2. Module prefix = usually from mod.info id= (e.g. MarzGuns)
+     GaelGun uses Base.* — advanced; use script scan or edit lists by hand
+  3. Scan mod → review table → Write
+  4. Items from mods not enabled in a save are hidden in-game automatically
+
+To REMOVE an item: delete its line from buy_list AND sell_list (and vehicle/
+costume files if present). Editing only buy is not enough.
+
+================================================================================
+SAFETY BACKUPS
+================================================================================
+
+  Save vanilla baseline  — snapshot of current good lists
+                         stored in phoneshop/.phoneshop_editor/vanilla_baseline/
+
+  Restore vanilla        — put baseline back if a merge went wrong
+
+  Undo last write        — restores the .bak file from the last write
+
+  ☑ Sync all Phone Shop folders after write
+     copies lists to Steam cache + other copies on this PC
+
+================================================================================
+MULTIPLAYER (dedicated server)
+================================================================================
+
+  • Edit lists on the SERVER copy of the mod (or here, then upload Workshop)
+  • Every player must have the SAME phoneshop files
+  • Restart server after list changes
+  • Shop shows MP WARNING if client files differ from server
+
+================================================================================
+AFTER EDITING
+================================================================================
+
+  • Full game restart (clients), not just reconnect
+  • Server restart after bulk changes
+  • Upload to Steam Workshop from this folder when ready
+
+================================================================================
+Made by IKappaID — Workshop ID 3749926419
+================================================================================

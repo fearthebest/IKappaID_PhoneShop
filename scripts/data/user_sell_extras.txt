@@ -1,0 +1,28 @@
+# Sell-only extras (pawn / jewelry — not in buy list)
+# Format: itemType|label|price|category
+
+Base.GoldBar|Gold Bar|1000|Tools
+Base.SmallGoldBar|Small Gold Bar|500|Tools
+Base.SilverBar|Silver Bar|700|Tools
+Base.SmallSilverBar|Small Silver Bar|350|Tools
+Base.CopperIngot|Copper Ingot|200|Tools
+Base.Earring_Stud_Gold|Earring Stud Gold|20|Clothes
+Base.Necklace_Gold|Gold Necklace|30|Clothes
+Base.NecklaceLong_Gold|Long Gold Necklace|45|Clothes
+Base.NecklaceLong_GoldDiamond|Long Gold Necklace Diamond|50|Clothes
+Base.Necklace_GoldDiamond|Gold Necklace Diamond|40|Clothes
+Base.Necklace_GoldRuby|Gold Necklace Ruby|35|Clothes
+Base.NoseRing_Gold|Gold Nosering|20|Clothes
+Base.Earring_Stud_Silver|Earring Stud Silver|14|Clothes
+Base.Necklace_Silver|Silver Necklace|20|Clothes
+Base.NecklaceLong_Silver|Long Silver Necklace|30|Clothes
+Base.NecklaceLong_SilverDiamond|Long Silver Necklace Diamond|35|Clothes
+Base.Necklace_SilverDiamond|Silver Necklace Diamond|30|Clothes
+Base.Necklace_SilverSapphire|Silver Necklace Sapphire|25|Clothes
+Base.NoseRing_Silver|Silver Nosering|15|Clothes
+Base.NecklaceLong_SilverEmerald|Long Silver Necklace Diamond Emerald|25|Clothes
+Base.NecklaceLong_SilverSapphire|Long Silver Necklace Diamond Sapphire|20|Clothes
+Base.WristWatch_Right_Expensive|WristWatch Gold Luthex (Right)|100|Clothes
+Base.WristWatch_Left_Expensive|WristWatch Gold Luthex (Left)|100|Clothes
+Base.WristWatch_Right_ClassicGold|WristWatch Gold (Right)|80|Clothes
+Base.WristWatch_Left_ClassicGold|WristWatch Gold (Left)|80|Clothes

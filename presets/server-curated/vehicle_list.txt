@@ -1,0 +1,26 @@
+# IKappaID Phone Shop — curated server preset (smaller Vehicles tab)
+# Same upload path as vehicle_list.txt — use THIS file OR the full server preset, not both.
+# Format: vehicleScript|label|price|hasKey(0|1)
+
+Base.SmallCar|Small Car|6000|1
+Base.CarNormal|Standard Car|8000|1
+Base.PickUpTruck|Pickup Truck|10000|1
+Base.SUV|SUV|12000|1
+Base.ModernCar|Modern Car|11000|1
+Base.49powerWagon|1949 Power Wagon|24000|1
+Base.69camaroSS|1969 Camaro SS|26000|1
+Base.70dodge|1970 Dodge Challenger|26000|1
+Base.73fordFalcon|1973 Ford Falcon|24000|1
+Base.76chevyKseries|1976 Chevy K-Series|28000|1
+Base.81deloreanDMC12|DeLorean DMC-12|45000|1
+Base.82firebirdKITT|KITT Firebird|35000|1
+Base.84corvette|1984 Corvette|45000|1
+Base.87chevySuburban|1987 Chevy Suburban|28000|1
+Base.91range|1991 Range Rover|32000|1
+Base.92nissanGTR|1992 Nissan GT-R|45000|1
+Base.93chevySuburban|1993 Chevy Suburban|28000|1
+Base.99fordCVPI|1999 Ford Crown Victoria Police|28000|1
+Base.ECTO1|Ecto-1|30000|1
+Base.78amgeneralM35A2|M35A2 Deuce|32000|1
+Base.92amgeneralM998|HMMWV M998|32000|1
+Base.rSemiTruck|Semi Truck|35000|1

@@ -1,0 +1,28 @@
+# Phone Shop currency — itemType|worth ($)
+# Lines starting with # are ignored. Restart game/server after edits.
+#
+# Cash is spent first (smallest value first), then jewelry. Change is always cash/bundles.
+#
+Base.Money|1
+Base.MoneyBundle|100
+# Jewelry (vanilla)
+Base.Earring_Stud_Gold|20
+Base.Necklace_Gold|30
+Base.NecklaceLong_Gold|45
+Base.NecklaceLong_GoldDiamond|50
+Base.Necklace_GoldDiamond|40
+Base.Necklace_GoldRuby|35
+Base.NoseRing_Gold|20
+Base.Earring_Stud_Silver|14
+Base.Necklace_Silver|20
+Base.NecklaceLong_Silver|30
+Base.NecklaceLong_SilverDiamond|35
+Base.Necklace_SilverDiamond|30
+Base.Necklace_SilverSapphire|25
+Base.NoseRing_Silver|15
+Base.NecklaceLong_SilverEmerald|25
+Base.NecklaceLong_SilverSapphire|20
+Base.WristWatch_Right_Expensive|100
+Base.WristWatch_Left_Expensive|100
+Base.WristWatch_Right_ClassicGold|80
+Base.WristWatch_Left_ClassicGold|80

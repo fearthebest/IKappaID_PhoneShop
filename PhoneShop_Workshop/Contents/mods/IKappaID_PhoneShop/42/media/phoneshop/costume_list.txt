@@ -1,0 +1,134 @@
+# IKappaID Phone Shop — costume_list.txt (Costume tab)
+# Format: itemType|label|price
+# Entries for costume mods you do not run are hidden automatically.
+
+Base.AdmireVega|Admire Vega|3500
+Base.AgnesDigital|Agnes Digital|3500
+Base.AgnesTachyon|Agnes Tachyon|3500
+Base.AirGroove|Air Groove|3500
+Base.AirGrooveWedding|Air Groove Wedding|4000
+Base.AirShakur|Air Shakur|3500
+Base.AoiKiryuin|Aoi Kiryuin|3500
+Base.AstonMachan|Aston Machan|3500
+Base.BambooMemory|Bamboo Memory|3500
+Base.BikoPegasus|Biko Pegasus|3500
+Base.BitterGlace|Bitter Glace|3500
+Base.BiwaHayahide|Biwa Hayahide|3500
+Base.ByerleyTurk|Byerley Turk|3500
+Base.ChevalGrand|Cheval Grand|3500
+Base.CopanoRickey|Copano Rickey|3500
+Base.CurrenChan|Curren Chan|3500
+Base.CurrenChanWedding|Curren Chan Wedding|4000
+Base.DaiichiRuby|Daiichi Ruby|3500
+Base.DaitakuHelios|Daitaku Helios|3500
+Base.DaiwaScarlet|Daiwa Scarlet|3500
+Base.DarleyArabian|Darley Arabian|3500
+Base.EishinFlash|Eishin Flash|3500
+Base.ElCondorPasa|El Condor Pasa|3500
+Base.ElCondorPasaMask|El Condor Pasa Mask|3500
+Base.EtsukoOtonashi|Etsuko Otonashi|3500
+Base.FineMotion|Fine Motion|3500
+Base.FineMotionWedding|Fine Motion Wedding|4000
+Base.FujiKiseki|Fuji Kiseki|3500
+Base.GodolphinBarb|Godolphin Barb|3500
+Base.GoldCity|Gold City|3500
+Base.GoldShip|Gold Ship|3500
+Base.GrassWonder|Grass Wonder|3500
+Base.GrassWonderUmaRap|Grass Wonder Uma Rap|3500
+Base.HappyMeek|Happy Meek|3500
+Base.HaruUrara|Haru Urara|3500
+Base.HishiAkebono|Hishi Akebono|3500
+Base.HishiAmazon|Hishi Amazon|3500
+Base.HishiMiracle|Hishi Miracle|3500
+Base.HokkoTarumae|Hokko Tarumae|3500
+Base.HokkoTarumaeArmSling|Hokko Tarumae Arm Sling|3500
+Base.IkunoDictus|Ikuno Dictus|3500
+Base.InariOne|Inari One|3500
+Base.InariOneMask|Inari One Mask|3500
+Base.InesFujin|Ines Fujin|3500
+Base.JunglePocket|Jungle Pocket|3500
+Base.KatsuragiAce|Katsuragi Ace|3500
+Base.KawakamiPrincess|Kawakami Princess|3500
+Base.KingHalo|King Halo|3500
+Base.KitasanBlack|Kitasan Black|3500
+Base.KSMiracle|KSMiracle|3500
+Base.LightHello|Light Hello|3500
+Base.LittleCocon|Little Cocon|3500
+Base.LittleCoconHarness|Little Cocon Harness|3500
+Base.Maruzensky|Maruzensky|3500
+Base.MarvelousSunday|Marvelous Sunday|3500
+Base.MatikaneFukukitaru|Matikane Fukukitaru|3500
+Base.MatikaneTannhauser|Matikane Tannhauser|3500
+Base.MatikaneTannhauserCape|Matikane Tannhauser Cape|3500
+Base.MayanoTopGun|Mayano Top Gun|3500
+Base.MayanoTopGunWedding|Mayano Top Gun Wedding|4000
+Base.MeishoDoto|Meisho Doto|3500
+Base.MejiroArdan|Mejiro Ardan|3500
+Base.MejiroBright|Mejiro Bright|3500
+Base.MejiroDober|Mejiro Dober|3500
+Base.MejiroMcQueen|Mejiro Mc Queen|3500
+Base.MejiroPalmer|Mejiro Palmer|3500
+Base.MejiroRamonu|Mejiro Ramonu|3500
+Base.MihonoBourbon|Mihono Bourbon|3500
+Base.MihonoBourbonFootPart|Mihono Bourbon Foot Part|3500
+Base.MihonoBourbonHipsPart|Mihono Bourbon Hips Part|3500
+Base.MihonoBourbonTailPart|Mihono Bourbon Tail Part|3500
+Base.Montjeu|Montjeu|3500
+Base.MrCB|Mr CB|3500
+Base.MrCBUniform|Mr CBUniform|3500
+Base.NakayamaFesta|Nakayama Festa|3500
+Base.NaritaBrian|Narita Brian|3500
+Base.NaritaTaishin|Narita Taishin|3500
+Base.NaritaTaishinShirtWaist|Narita Taishin Shirt Waist|3500
+Base.NaritaTaishinUmaRap|Narita Taishin Uma Rap|3500
+Base.NaritaTopRoad|Narita Top Road|3500
+Base.NaritaTopRoadUniform|Narita Top Road Uniform|3500
+Base.NeoUniverse|Neo Universe|3500
+Base.NiceNature|Nice Nature|3500
+Base.NishinoFlower|Nishino Flower|3500
+Base.OguriCap|Oguri Cap|3500
+Base.RiceShower|Rice Shower|3500
+Base.RikoKashimoto|Riko Kashimoto|3500
+Base.SakuraBakushinO|Sakura Bakushin O|3500
+Base.SakuraChiyonoO|Sakura Chiyono O|3500
+Base.SakuraLaurel|Sakura Laurel|3500
+Base.SakuraLaurelUniform|Sakura Laurel Uniform|3500
+Base.SasamiAnshinzawa|Sasami Anshinzawa|3500
+Base.SasamiEyeMask|Sasami Eye Mask|3500
+Base.SatonoDiamond|Satono Diamond|3500
+Base.SeekingThePearl|Seeking The Pearl|3500
+Base.SeiunSky|Seiun Sky|3500
+Base.ShinkoWindy|Shinko Windy|3500
+Base.ShinkoWindyUniform|Shinko Windy Uniform|3500
+Base.SilenceSuzuka|Silence Suzuka|3500
+Base.SmartFalcon|Smart Falcon|3500
+Base.SpecialWeek|Special Week|3500
+Base.SuperCreek|Super Creek|3500
+Base.SweepTosho|Sweep Tosho|3500
+Base.SymboliKrisS|Symboli Kris S|3500
+Base.SymboliRudolf|Symboli Rudolf|3500
+Base.SymboliSiriusUniform|Symboli Sirius Uniform|3500
+Base.TaikiShuttle|Taiki Shuttle|3500
+Base.TamamoCross|Tamamo Cross|3500
+Base.TaninoGimlet|Tanino Gimlet|3500
+Base.TaninoGimletEyepatch|Tanino Gimlet Eyepatch|3500
+Base.TaninoGimletUniform|Tanino Gimlet Uniform|3500
+Base.TapDanceCity|Tap Dance City|3500
+Base.TazunaHayakawa|Tazuna Hayakawa|3500
+Base.TMOperaO|TMOpera O|3500
+Base.TMOperaOUmaRap|TMOpera OUma Rap|3500
+Base.TokaiTeio|Tokai Teio|3500
+Base.TosenJordan|Tosen Jordan|3500
+Base.TsurumaruTsuyoshi|Tsurumaru Tsuyoshi|3500
+Base.TwinTurbo|Twin Turbo|3500
+Base.Vodka|Vodka|3500
+Base.WinningTicket|Winning Ticket|3500
+Base.WinningTicketUmaRap|Winning Ticket Uma Rap|3500
+Base.WonderAcute|Wonder Acute|3500
+Base.YaenoMuteki|Yaeno Muteki|3500
+Base.YamaninZephyr|Yamanin Zephyr|3500
+Base.YayoiAkikawa|Yayoi Akikawa|3500
+Base.YukinoBijin|Yukino Bijin|3500
+Base.YukinoBijinUmaRap|Yukino Bijin Uma Rap|3500
+Base.ZennoRobRoy|Zenno Rob Roy|3500
+Base.ZennoRobRoyHarness|Zenno Rob Roy Harness|3500

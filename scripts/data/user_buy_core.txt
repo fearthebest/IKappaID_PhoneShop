@@ -1,0 +1,78 @@
+# Curated Base.* staples (no MarzGuns — those come from GaelGunStore via WorldDictionary)
+# Format: itemType|label|price|category
+
+# --- Weapon ACC ---
+Base.Bullets9mmBox|Box of 9x19mm Box (Vanilla)|60|Ammo
+
+# --- Weapons ---
+Base.Katana|Katana|2000|Weapons
+Base.Hatchet_Bone|Bone Hatchet|15|Weapons
+Base.ChairLeg_Nails|Chair Leg with Nails|15|Weapons
+Base.SpearScrewdriver|Spear with Screwdriver|20|Weapons
+Base.HuntingKnife|Hunting Knife|50|Weapons
+
+# --- Food ---
+Base.Bread|Bread|50|Food
+Base.Butter|Butter|50|Food
+Base.Egg|Egg|50|Food
+Base.Bacon|Bacon|50|Food
+Base.Cheese|Cheese|50|Food
+Base.Lettuce|Lettuce|50|Food
+Base.Tomato|Tomato|50|Food
+Base.Milk|Milk|50|Food
+Base.Sugar|Sugar|50|Food
+Base.Flour|Flour|50|Food
+Base.PeanutButter|Peanut Butter|50|Food
+Base.Jam|Jam|50|Food
+Base.Mayo|Mayonnaise|50|Food
+Base.Pasta|Pasta|50|Food
+Base.Rice|Rice|50|Food
+Base.Potato|Potato|50|Food
+Base.Salt|Salt|50|Food
+Base.Oil|Cooking Oil|50|Food
+Base.DryRamenNoodles|Dry Ramen Noodles|50|Food
+Base.BouillonCube|Bouillon Cube|50|Food
+Base.WineAged|Bottle of Fine Red Wine|30|Food
+Base.Whiskey|Bottle of Whiskey|50|Food
+Base.Vodka|Vodka|50|Food
+Base.Rum|Rum|50|Food
+Base.TinnedBeans|Canned Beans|70|Food
+
+# --- Tools ---
+Base.DuctTape|Duct Tape|200|Tools
+Base.PropaneTank|Propane Tank|150|Tools
+Base.Sledgehammer|Sledgehammer|1700|Tools
+Base.BoltCutters|Bolt Cutters|1700|Tools
+Base.NutsBolts|Nuts and Bolts|20|Tools
+Base.ElectronicsMags4|Magazine How To Use Generator|85|Tools
+
+# --- Medical ---
+Base.SutureNeedle|Suture Needle|80|Medical
+Base.SutureNeedleHolder|Forceps|80|Medical
+Base.AlcoholWipes|Alcohol Wipes|80|Medical
+Base.PillsBeta|Beta Blockers|80|Medical
+Base.Hat_GasMask|Gas Mask|200|Medical
+Base.GasmaskFilter|Gas Mask Filter|75|Medical
+Base.GasmaskFilterCrafted|Gas Mask Filter - Crafted|50|Medical
+Base.Hat_ImprovisedGasMask|Improvised Gas Mask|125|Medical
+Base.RespiratorFilters|Respirator Filters|50|Medical
+
+# --- Vehicle Parts ---
+Base.CarBattery1|Car Battery (Standard Vehicle)|180|Vehicle Parts
+Base.CarBattery2|Car Battery (Heavy-Duty Vehicle)|450|Vehicle Parts
+Base.CarBattery3|Car Battery (Sports Vehicle)|250|Vehicle Parts
+Base.EngineParts|Spare Engine Parts|50|Vehicle Parts
+Base.Windshield1|Windshield (Standard)|250|Vehicle Parts
+Base.Windshield2|Windshield (Heavy-Duty Vehicle)|250|Vehicle Parts
+Base.Windshield3|Windshield (Sports Vehicle)|250|Vehicle Parts
+Base.BigGasTank1|Gas Tank - Big (Standard)|1500|Vehicle Parts
+Base.BigGasTank2|Gas Tank - Big (Heavy-Duty Vehicle)|1500|Vehicle Parts
+Base.BigGasTank3|Gas Tank - Big (Sports Vehicle)|1500|Vehicle Parts
+Base.JerryCan|Emergency 20L of Gas|300|Vehicle Parts
+
+# --- Armor ---
+Base.Codpiece_Metal|Metal Codpiece|800|Armor
+Base.Cuirass_Metal|Metal Body Armor|1000|Armor
+Base.VambraceSpike_Right|Spiked Metal Forearm Armor|700|Armor
+Base.VambraceSpike_Left|Spiked Metal Forearm Armor|700|Armor
+Base.Gloves_MetalArmour|Fingerless Gloves - Metal|500|Armor

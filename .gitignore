@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.bak.*
+*.pre_restore.*
+.phoneshop_editor/
+dist/
+tools/*.zip
+tools/ShopListEditor/config.json
+.env
+.vscode/
+.idea/
+*.log
