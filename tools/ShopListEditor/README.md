@@ -44,7 +44,7 @@ Steam Workshop **cannot** ship this tool — the in-game uploader blocks `.bat`,
 
 1. Source mod folder → **Scan mod**
 2. Phone Shop folder auto-filled → **Detect** if needed
-3. Edit prices/categories; double-click ✓ to include/exclude
+3. Edit prices/categories; double-click the checkmark column to include or exclude
 4. **Write lists** → confirm preview → optional sync
 
 ## Limits
