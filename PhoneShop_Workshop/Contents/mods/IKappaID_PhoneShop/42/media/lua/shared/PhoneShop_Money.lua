@@ -203,7 +203,75 @@ function PhoneShop.pay(player, price)
     return PhoneShop.payCashOnly(player, price)
 end
 
+local function economyUsesBankOnly()
+    if not PhoneShop.economyRules() or not IKST_Economy or not IKST_Economy.idCardBanking then
+        return false
+    end
+    return IKST_Economy.idCardBanking() == true
+end
+
+-- How a successful pay() would split between cash items and bank (for symmetric refunds).
+function PhoneShop.plannedPayment(player, price)
+    price = math.floor(tonumber(price) or 0)
+    if price <= 0 then
+        return 0, 0
+    end
+    player = PhoneShop.resolvePlayer(player)
+    if not player then
+        return 0, 0
+    end
+    if not PhoneShop.economyRules() or not IKST_EconomyBridge then
+        return price, 0
+    end
+    if economyUsesBankOnly() then
+        return 0, price
+    end
+    local cash = IKST_EconomyBridge.getCash(player)
+    if cash >= price then
+        return price, 0
+    end
+    if IKST_Economy and IKST_Economy.getBank then
+        return cash, price - cash
+    end
+    return price, 0
+end
+
+function PhoneShop.refundPayment(player, fromCash, fromBank)
+    player = PhoneShop.resolvePlayer(player)
+    if not player then
+        return false
+    end
+    fromCash = math.floor(tonumber(fromCash) or 0)
+    fromBank = math.floor(tonumber(fromBank) or 0)
+    if fromCash <= 0 and fromBank <= 0 then
+        return true
+    end
+    local ok = true
+    if fromBank > 0 and IKST_EconomyBridge and IKST_EconomyBridge.giveBank then
+        ok = IKST_EconomyBridge.giveBank(player, fromBank) == true
+    end
+    if ok and fromCash > 0 then
+        if PhoneShop.economyRules() and IKST_EconomyBridge and IKST_EconomyBridge.giveCash then
+            ok = IKST_EconomyBridge.giveCash(player, fromCash) == true
+        else
+            ok = PhoneShop.giveCashOnly(player, fromCash)
+        end
+    end
+    return ok
+end
+
 function PhoneShop.give(player, amount)
+    amount = math.floor(tonumber(amount) or 0)
+    if amount <= 0 then
+        return true
+    end
+    player = PhoneShop.resolvePlayer(player)
+    if not player then
+        return false
+    end
+    if PhoneShop.economyRules() and IKST_EconomyBridge and IKST_EconomyBridge.giveCash then
+        return IKST_EconomyBridge.giveCash(player, amount) == true
+    end
     return PhoneShop.giveCashOnly(player, amount)
 end
 
@@ -223,9 +291,18 @@ local function tradeResult(success, msg, player)
     return { success = success, msg = msg, balance = PhoneShop.getMoney(player) }
 end
 
-function PhoneShop.trade(player, command, args)
+function PhoneShop.trade(player, command, args, opts)
+    opts = opts or {}
+    local skipLog = opts.skipLog == true
+    player = PhoneShop.resolvePlayer(player)
+    if not player then
+        return { success = false, msg = "No player.", balance = 0 }
+    end
+    if not PhoneShop.runsOnAuthorityJvm() then
+        return tradeResult(false, "Server only.", player)
+    end
     local itemType = args and args.itemType
-    if type(itemType) ~= "string" or itemType == "" then
+    if type(itemType) ~= "string" or itemType == "" or #itemType > 256 then
         return tradeResult(false, "Invalid item.", player)
     end
 
@@ -243,23 +320,26 @@ function PhoneShop.trade(player, command, args)
         if not PhoneShop.canAfford(player, entry.price) then
             return tradeResult(false, "Not enough money.", player)
         end
+        local refundCash, refundBank = PhoneShop.plannedPayment(player, entry.price)
         if not PhoneShop.pay(player, entry.price) then
             return tradeResult(false, "Payment failed.", player)
         end
         if PhoneShop.isPinkSlipItemType(itemType) then
             local ok, err = PhoneShopPinkSlip.mint(player, entry)
             if not ok then
-                PhoneShop.give(player, entry.price)
+                PhoneShop.refundPayment(player, refundCash, refundBank)
                 PhoneShop.logTradeFailed(player, command, itemType, tostring(err or "mint failed"))
                 return tradeResult(false, tostring(err or "Could not issue Pink Slip."), player)
             end
         elseif not addItem(getInv(player), entry.itemType) then
-            PhoneShop.give(player, entry.price)
+            PhoneShop.refundPayment(player, refundCash, refundBank)
             PhoneShop.logTradeFailed(player, command, itemType, "Could not add item.")
-            return tradeResult(false, "Inventory full or item unavailable — payment refunded as cash.", player)
+            return tradeResult(false, "Inventory full or item unavailable — payment refunded.", player)
         end
-        PhoneShop.logTrade(player, command, entry)
-        return tradeResult(true, "Bought " .. entry.label .. " for $" .. entry.price .. ".", player)
+        if not skipLog then
+            PhoneShop.logTrade(player, command, entry)
+        end
+        return tradeResult(true, "Bought " .. entry.label .. " for $" .. entry.price .. ".", player), entry
 
     elseif command == PhoneShop.CMD.SELL then
         local entry = PhoneShopConfig.SellByType[itemType]
@@ -280,8 +360,10 @@ function PhoneShop.trade(player, command, args)
             PhoneShop.logTradeFailed(player, command, itemType, "Payout failed.")
             return tradeResult(false, "Payment failed.", player)
         end
-        PhoneShop.logTrade(player, command, entry)
-        return tradeResult(true, "Sold " .. entry.label .. " for $" .. entry.price .. ".", player)
+        if not skipLog then
+            PhoneShop.logTrade(player, command, entry)
+        end
+        return tradeResult(true, "Sold " .. entry.label .. " for $" .. entry.price .. ".", player), entry
     end
 
     return tradeResult(false, "Unknown action.", player)

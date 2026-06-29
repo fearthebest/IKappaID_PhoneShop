@@ -51,9 +51,19 @@ local function isServerLogger()
 end
 
 local function relPath(...)
-    local parts = { logRoot() }
+    local parts = {}
+    local root = logRoot()
+    if root and root ~= "" then
+        table.insert(parts, tostring(root))
+    end
     for i = 1, select("#", ...) do
-        table.insert(parts, select(i, ...))
+        local seg = select(i, ...)
+        if seg ~= nil and seg ~= "" then
+            table.insert(parts, tostring(seg))
+        end
+    end
+    if #parts == 0 then
+        return "IKappaID_PhoneShop_Logs"
     end
     return table.concat(parts, "/")
 end
@@ -144,17 +154,31 @@ end
 local function gameDateParts()
     local gt = getGameTime and getGameTime()
     if not gt then return nil end
-    return {
-        year = gt.getYear and gt:getYear() or 0,
-        month = gt.getMonth and (gt:getMonth() + 1) or 0,
-        day = gt.getDay and (gt:getDay() + 1) or 0,
-        hours = gt.getWorldAgeHours and gt:getWorldAgeHours() or 0,
-    }
+    local year = 0
+    local month = 0
+    local day = 0
+    local hours = 0
+    if gt.getYear then
+        year = tonumber(gt:getYear()) or 0
+    end
+    if gt.getMonth then
+        month = (tonumber(gt:getMonth()) or 0) + 1
+    end
+    if gt.getDay then
+        day = (tonumber(gt:getDay()) or 0) + 1
+    end
+    if gt.getWorldAgeHours then
+        hours = tonumber(gt:getWorldAgeHours()) or 0
+    end
+    return { year = year, month = month, day = day, hours = hours }
 end
 
 local function dateFolder()
     local p = gameDateParts()
     if not p then return "undated" end
+    if (p.year or 0) <= 0 and (p.month or 0) <= 0 and (p.day or 0) <= 0 then
+        return "undated"
+    end
     return string.format("%04d-%02d-%02d", p.year, p.month, p.day)
 end
 
@@ -388,13 +412,13 @@ local function sortedRows(bucket, sortBy)
         table.sort(rows, function(a, b)
             if a.total ~= b.total then return a.total > b.total end
             if a.count ~= b.count then return a.count > b.count end
-            return a.label < b.label
+            return (a.label or "") < (b.label or "")
         end)
     else
         table.sort(rows, function(a, b)
             if a.count ~= b.count then return a.count > b.count end
             if a.total ~= b.total then return a.total > b.total end
-            return a.label < b.label
+            return (a.label or "") < (b.label or "")
         end)
     end
     return rows
@@ -485,7 +509,7 @@ local function saveAdminDashboard(lastLine)
     else
         for i = 1, math.min(10, #sold) do
             local r = sold[i]
-            table.insert(lines, string.format("  %2d. %s x%d ($%d) [%s]", i, r.label, r.count, r.total, r.category))
+            table.insert(lines, string.format("  %2d. %s x%d ($%d) [%s]", i, r.label or "?", r.count, r.total, r.category or ""))
         end
     end
 
@@ -497,7 +521,7 @@ local function saveAdminDashboard(lastLine)
     else
         for i = 1, math.min(10, #bought) do
             local r = bought[i]
-            table.insert(lines, string.format("  %2d. %s x%d ($%d) [%s]", i, r.label, r.count, r.total, r.category))
+            table.insert(lines, string.format("  %2d. %s x%d ($%d) [%s]", i, r.label or "?", r.count, r.total, r.category or ""))
         end
     end
 
@@ -539,7 +563,7 @@ local function saveStatsFiles(lastLine)
         for _, row in ipairs(sortedRows(bucket, "count")) do
             table.insert(itemLines, string.format(
                 "%s\t%s\t%s\t%s\t%d\t%d",
-                action, row.itemType, row.label, row.category, row.count, row.total
+                action, row.itemType or "?", row.label or "?", row.category or "", row.count, row.total
             ))
         end
     end
@@ -559,6 +583,12 @@ local function saveStatsFiles(lastLine)
 end
 
 local function appendTradeLine(dayPath, fileName, line)
+    if type(dayPath) ~= "string" or dayPath == "" then
+        dayPath = "undated"
+    end
+    if type(fileName) ~= "string" or fileName == "" or type(line) ~= "string" or line == "" then
+        return
+    end
     local path = relPath("trades", dayPath, fileName)
     ensureHeader(path, TRADE_HEADER)
     writeText(path, line, true)
@@ -570,7 +600,7 @@ local function buildTradeLine(player, action, entry)
     return string.format(
         "%06d\t%s\t%.1f\t%s\t%s\t%s\t%s\t%s\t%d",
         PhoneShopLog.tradeSeq, timeStr, worldH, playerName(player), action,
-        entry.itemType, entry.label, entry.category, entry.price
+        entry.itemType or "?", entry.label or "?", entry.category or "", tonumber(entry.price) or 0
     )
 end
 
@@ -582,7 +612,7 @@ function PhoneShop.logServerReady()
 
     local timeStr = gameTimeTag()
     local mode = isMultiplayer() and "multiplayer-dedicated" or "singleplayer"
-    local line = string.format("[%s] Phone Shop logging active | mode=%s | folder=%s", timeStr, mode, logRoot())
+    local line = string.format("[%s] Phone Shop logging active | mode=%s | folder=%s", tostring(timeStr), mode, logRoot())
     ensureHeader(relPath("server", "server.log"), "timestamp\tevent")
     writeText(relPath("server", "server.log"), timeStr .. "\t" .. line, true)
     saveAdminDashboard("(server started — waiting for first trade)")

@@ -19,6 +19,7 @@ PhoneShopClient.TexCache = {}
 PhoneShopClient.Balance = 0
 PhoneShopClient.activePlayer = nil
 PhoneShopClient.listMismatch = false
+PhoneShopClient.balanceSynced = false
 
 function PhoneShopClient.getPlayer()
     return PhoneShop.resolvePlayer(PhoneShopClient.activePlayer)
@@ -59,10 +60,17 @@ function PhoneShopClient.resetItemCaches()
 end
 
 function PhoneShopClient.onServerListInfo(info)
-    if not info or not info.fingerprint then return end
-    local localInfo = PhoneShop.getListInfo and PhoneShop.getListInfo() or nil
-    if not localInfo then return end
-    PhoneShopClient.listMismatch = info.fingerprint ~= localInfo.fingerprint
+    if not info then return end
+    if info.balance ~= nil then
+        PhoneShopClient.Balance = tonumber(info.balance) or 0
+        PhoneShopClient.balanceSynced = true
+    end
+    if info.fingerprint then
+        local localInfo = PhoneShop.getListInfo and PhoneShop.getListInfo() or nil
+        if localInfo then
+            PhoneShopClient.listMismatch = info.fingerprint ~= localInfo.fingerprint
+        end
+    end
     local win = PhoneShopClient.Window
     if win and win:isVisible() then
         win:applyFilter()
@@ -165,10 +173,12 @@ end
 local function showResult(result)
     local win = PhoneShopClient.Window
     if not win or not win:isVisible() or not result then return end
-    if result.balance then
-        PhoneShopClient.Balance = result.balance
-    else
+    if result.balance ~= nil then
+        PhoneShopClient.Balance = tonumber(result.balance) or 0
+        PhoneShopClient.balanceSynced = true
+    elseif PhoneShop.isSinglePlayer() then
         refreshBalance()
+        PhoneShopClient.balanceSynced = true
     end
     if result.success then
         win:setStatus(result.msg, C.ok.r, C.ok.g, C.ok.b)
@@ -182,10 +192,11 @@ local function doTrade(command, itemType)
     local player = PhoneShopClient.getPlayer()
     if not player then return end
     local args = { itemType = itemType }
-    if not isMultiplayer() then
-        showResult(PhoneShop.trade(player, command, args))
-    else
+    -- PZwiki: MP inventory/money mutations on server (all MP clients, including host).
+    if type(isMultiplayer) == "function" and isMultiplayer() then
         sendClientCommand(PhoneShop.MODULE, command, args)
+    else
+        showResult(PhoneShop.trade(player, command, args))
     end
 end
 
@@ -371,7 +382,9 @@ function PhoneShopUI:setStatus(text, r, g, b)
 end
 
 function PhoneShopUI:applyFilter()
-    refreshBalance()
+    if PhoneShop.isSinglePlayer() then
+        refreshBalance()
+    end
     local src = self.mode == "buy" and PhoneShopConfig.BuyList or PhoneShopConfig.SellList
     local base, stats = filterList(self.mode, src, self.activeCat)
     local query = self.searchText or ""
@@ -497,7 +510,12 @@ function PhoneShopUI:doAction()
     local player = PhoneShopClient.getPlayer()
     if not player then return end
     if self.mode == "buy" then
-        if PhoneShopClient.Balance < entry.price then
+        if PhoneShop.isSinglePlayer() then
+            if PhoneShopClient.Balance < entry.price then
+                self:setStatus("Not enough money.", C.danger.r, C.danger.g, C.danger.b)
+                return
+            end
+        elseif PhoneShopClient.balanceSynced and PhoneShopClient.Balance < entry.price then
             self:setStatus("Not enough money.", C.danger.r, C.danger.g, C.danger.b)
             return
         end
@@ -530,9 +548,12 @@ function PhoneShopClient.OpenShopUI(player)
     end
     PhoneShopClient.resetItemCaches()
     PhoneShopClient.listMismatch = false
-    refreshBalance()
-    if PhoneShop.isRemoteMpClient and PhoneShop.isRemoteMpClient() then
+    PhoneShopClient.balanceSynced = false
+    if type(isMultiplayer) == "function" and isMultiplayer() then
         sendClientCommand(PhoneShop.MODULE, PhoneShop.CMD.GET_LIST_INFO, {})
+    else
+        refreshBalance()
+        PhoneShopClient.balanceSynced = true
     end
     if PhoneShopClient.Window then
         PhoneShopClient.Window:setVisible(true)

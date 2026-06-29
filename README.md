@@ -3,7 +3,7 @@
 A survivor market trader system for Project Zomboid Build 42. Players buy and sell items through a Cordless Phone interface with server-authoritative transactions.
 
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=3749926419)
-[![Version](https://img.shields.io/badge/Version-1.0.4-green)](https://github.com/fearthebest/IKappaID_PhoneShop/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.5-green)](https://github.com/fearthebest/IKappaID_PhoneShop/releases)
 [![Build](https://img.shields.io/badge/Project%20Zomboid-Build%2042-orange)](https://pzwiki.net/wiki/Build_42)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
